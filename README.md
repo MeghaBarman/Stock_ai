@@ -360,8 +360,7 @@ datasets.
 
 **Megha Barman**
 
-M.Sc. Data Science\
-Silver Oak University, Ahmedabad
+M.Sc. Data Science | Student
 
 This project was developed as an academic and portfolio project to
 demonstrate skills in **Python, SQL, data analysis, machine learning,
