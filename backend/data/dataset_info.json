@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-04-18T02:15:03.401559",
+  "total_stocks": 16,
+  "us_stocks": [
+    "AAPL",
+    "MSFT",
+    "TSLA",
+    "GOOGL",
+    "AMZN",
+    "NVDA",
+    "META",
+    "JPM"
+  ],
+  "indian_stocks": [
+    "RELIANCE.NS",
+    "TCS.NS",
+    "INFY.NS",
+    "HDFCBANK.NS",
+    "ICICIBANK.NS",
+    "WIPRO.NS",
+    "HINDUNILVR.NS",
+    "BAJFINANCE.NS"
+  ],
+  "date_range": {
+    "start": "2024-05-14",
+    "end": "2026-04-17"
+  },
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "rows": 504,
+      "market": "US",
+      "sector": "Technology",
+      "file": "AAPL_raw.csv"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "rows": 504,
+      "market": "US",
+      "sector": "Technology",
+      "file": "MSFT_raw.csv"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "rows": 504,
+      "market": "US",
+      "sector": "EV/Auto",
+      "file": "TSLA_raw.csv"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc",
+      "rows": 504,
+      "market": "US",
+      "sector": "Technology",
+      "file": "GOOGL_raw.csv"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "rows": 504,
+      "market": "US",
+      "sector": "E-Commerce",
+      "file": "AMZN_raw.csv"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "rows": 504,
+      "market": "US",
+      "sector": "Semiconductors",
+      "file": "NVDA_raw.csv"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "rows": 504,
+      "market": "US",
+      "sector": "Social Media",
+      "file": "META_raw.csv"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "rows": 504,
+      "market": "US",
+      "sector": "Finance",
+      "file": "JPM_raw.csv"
+    },
+    {
+      "symbol": "RELIANCE.NS",
+      "name": "Reliance Industries",
+      "rows": 504,
+      "market": "IN",
+      "sector": "Conglomerate",
+      "file": "RELIANCE_NS_raw.csv"
+    },
+    {
+      "symbol": "TCS.NS",
+      "name": "Tata Consultancy",
+      "rows": 504,
+      "market": "IN",
+      "sector": "IT Services",
+      "file": "TCS_NS_raw.csv"
+    },
+    {
+      "symbol": "INFY.NS",
+      "name": "Infosys Ltd",
+      "rows": 504,
+      "market": "IN",
+      "sector": "IT Services",
+      "file": "INFY_NS_raw.csv"
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank",
+      "rows": 504,
+      "market": "IN",
+      "sector": "Banking",
+      "file": "HDFCBANK_NS_raw.csv"
+    },
+    {
+      "symbol": "ICICIBANK.NS",
+      "name": "ICICI Bank",
+      "rows": 504,
+      "market": "IN",
+      "sector": "Banking",
+      "file": "ICICIBANK_NS_raw.csv"
+    },
+    {
+      "symbol": "WIPRO.NS",
+      "name": "Wipro Ltd",
+      "rows": 504,
+      "market": "IN",
+      "sector": "IT Services",
+      "file": "WIPRO_NS_raw.csv"
+    },
+    {
+      "symbol": "HINDUNILVR.NS",
+      "name": "Hindustan Unilever",
+      "rows": 504,
+      "market": "IN",
+      "sector": "FMCG",
+      "file": "HINDUNILVR_NS_raw.csv"
+    },
+    {
+      "symbol": "BAJFINANCE.NS",
+      "name": "Bajaj Finance",
+      "rows": 504,
+      "market": "IN",
+      "sector": "NBFC",
+      "file": "BAJFINANCE_NS_raw.csv"
+    }
+  ],
+  "feature_columns": [
+    "sma5",
+    "sma10",
+    "sma20",
+    "sma50",
+    "ema12",
+    "ema26",
+    "rsi",
+    "rsi_6",
+    "macd",
+    "macd_sig",
+    "macd_hist",
+    "bb_pos",
+    "bb_width",
+    "atr",
+    "vol_ratio",
+    "obv",
+    "daily_ret",
+    "hlpct",
+    "co_pct",
+    "mom10",
+    "mom20",
+    "roc5",
+    "stoch_k",
+    "stoch_d"
+  ],
+  "target_columns": [
+    "target",
+    "target_3d",
+    "ret_5d"
+  ],
+  "datasets": {
+    "raw_ohlcv": {
+      "path": "data/raw/",
+      "rows_per_stock": 504,
+      "columns": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume"
+      ]
+    },
+    "per_stock_features": {
+      "path": "data/processed/*_features.csv",
+      "feature_count": 30
+    },
+    "combined_training": {
+      "path": "data/processed/combined_training_data.csv",
+      "total_rows": 7200
+    },
+    "sentiment": {
+      "path": "data/sentiment/news_sentiment.csv",
+      "total_rows": 1280
+    }
+  }
+}

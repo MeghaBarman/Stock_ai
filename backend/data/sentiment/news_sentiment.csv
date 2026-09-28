@@ -1,0 +1,1281 @@
+date,symbol,name,market,sector,headline,sentiment,score,source
+2024-12-24,AAPL,Apple Inc,US,Technology,"Apple Inc announces ₹2,000 Cr share buyback programme",positive,0.644,WSJ
+2024-12-27,AAPL,Apple Inc,US,Technology,Apple Inc raises full-year revenue guidance on strong product demand,positive,0.89,Bloomberg
+2024-12-28,AAPL,Apple Inc,US,Technology,Analysts downgrade Apple Inc citing stretched valuations,negative,0.786,MarketWatch
+2024-12-28,AAPL,Apple Inc,US,Technology,Apple Inc issues profit warning citing rising input costs,negative,0.486,Bloomberg
+2025-01-08,AAPL,Apple Inc,US,Technology,Analysts downgrade Apple Inc citing stretched valuations,negative,0.666,MarketWatch
+2025-01-10,AAPL,Apple Inc,US,Technology,Apple Inc issues profit warning citing rising input costs,negative,0.576,MarketWatch
+2025-01-10,AAPL,Apple Inc,US,Technology,"Apple Inc faces regulatory investigation, shares under pressure",negative,0.684,MarketWatch
+2025-01-27,AAPL,Apple Inc,US,Technology,Apple Inc appoints new Chief Technology Officer,neutral,0.42,Reuters
+2025-02-02,AAPL,Apple Inc,US,Technology,Apple Inc completes previously announced share buyback,neutral,0.488,CNBC
+2025-02-19,AAPL,Apple Inc,US,Technology,"Apple Inc expands into Southeast Asian markets, revenue surges",positive,0.63,Seeking Alpha
+2025-02-22,AAPL,Apple Inc,US,Technology,Apple Inc raises full-year revenue guidance on strong product demand,positive,0.693,Bloomberg
+2025-03-02,AAPL,Apple Inc,US,Technology,Apple Inc loses major client contract to competitor,negative,0.619,Reuters
+2025-03-05,AAPL,Apple Inc,US,Technology,"Apple Inc expands into Southeast Asian markets, revenue surges",positive,0.681,Reuters
+2025-03-16,AAPL,Apple Inc,US,Technology,"Apple Inc announces ₹2,000 Cr share buyback programme",positive,0.931,Seeking Alpha
+2025-03-17,AAPL,Apple Inc,US,Technology,Apple Inc appoints new Chief Technology Officer,neutral,0.591,Bloomberg
+2025-03-18,AAPL,Apple Inc,US,Technology,"Analysts upgrade Apple Inc to 'Strong Buy', raise price target 20%",positive,0.863,Bloomberg
+2025-03-27,AAPL,Apple Inc,US,Technology,Apple Inc Q3 results in line with Street expectations,neutral,0.567,Bloomberg
+2025-04-01,AAPL,Apple Inc,US,Technology,Apple Inc wins landmark government contract worth billions,positive,0.639,MarketWatch
+2025-04-08,AAPL,Apple Inc,US,Technology,Apple Inc wins landmark government contract worth billions,positive,0.691,MarketWatch
+2025-04-12,AAPL,Apple Inc,US,Technology,"Apple Inc announces ₹2,000 Cr share buyback programme",positive,0.555,Seeking Alpha
+2025-04-29,AAPL,Apple Inc,US,Technology,Apple Inc board approves routine capital expenditure plan,neutral,0.35,WSJ
+2025-05-08,AAPL,Apple Inc,US,Technology,Apple Inc revenue growth decelerates sharply in key segments,negative,0.654,Reuters
+2025-05-16,AAPL,Apple Inc,US,Technology,Apple Inc maintains annual guidance unchanged,neutral,0.457,MarketWatch
+2025-05-26,AAPL,Apple Inc,US,Technology,Apple Inc stock trades near analyst consensus price target,neutral,0.698,WSJ
+2025-06-08,AAPL,Apple Inc,US,Technology,Apple Inc maintains annual guidance unchanged,neutral,0.734,MarketWatch
+2025-06-09,AAPL,Apple Inc,US,Technology,Apple Inc appoints new Chief Technology Officer,neutral,0.507,Reuters
+2025-06-10,AAPL,Apple Inc,US,Technology,Apple Inc maintains annual guidance unchanged,neutral,0.507,WSJ
+2025-06-14,AAPL,Apple Inc,US,Technology,Apple Inc Q3 results in line with Street expectations,neutral,0.576,CNBC
+2025-06-17,AAPL,Apple Inc,US,Technology,"Apple Inc announces 5,000 job cuts as growth slows",negative,0.723,MarketWatch
+2025-06-23,AAPL,Apple Inc,US,Technology,Apple Inc AI product launch receives overwhelmingly positive reviews,positive,0.447,Reuters
+2025-07-26,AAPL,Apple Inc,US,Technology,"Apple Inc announces 5,000 job cuts as growth slows",negative,0.657,Reuters
+2025-07-29,AAPL,Apple Inc,US,Technology,Apple Inc issues profit warning citing rising input costs,negative,0.682,Seeking Alpha
+2025-08-01,AAPL,Apple Inc,US,Technology,Apple Inc revenue growth decelerates sharply in key segments,negative,0.666,CNBC
+2025-08-02,AAPL,Apple Inc,US,Technology,"Apple Inc faces regulatory investigation, shares under pressure",negative,0.647,WSJ
+2025-08-06,AAPL,Apple Inc,US,Technology,Apple Inc Q3 results in line with Street expectations,neutral,0.676,Bloomberg
+2025-08-13,AAPL,Apple Inc,US,Technology,"Apple Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.855,CNBC
+2025-08-30,AAPL,Apple Inc,US,Technology,"Apple Inc faces regulatory investigation, shares under pressure",negative,0.745,Reuters
+2025-09-05,AAPL,Apple Inc,US,Technology,"Apple Inc announces major strategic partnership, stock hits 52-week high",positive,0.789,Seeking Alpha
+2025-09-08,AAPL,Apple Inc,US,Technology,"Apple Inc hosts investor day, reiterates long-term targets",neutral,0.609,Bloomberg
+2025-09-10,AAPL,Apple Inc,US,Technology,Apple Inc faces class action lawsuit over product defects,negative,0.661,CNBC
+2025-09-11,AAPL,Apple Inc,US,Technology,Apple Inc stock trades near analyst consensus price target,neutral,0.566,MarketWatch
+2025-09-15,AAPL,Apple Inc,US,Technology,Analysts downgrade Apple Inc citing stretched valuations,negative,0.83,CNBC
+2025-09-16,AAPL,Apple Inc,US,Technology,Apple Inc Q3 results in line with Street expectations,neutral,0.49,CNBC
+2025-09-18,AAPL,Apple Inc,US,Technology,Apple Inc raises full-year revenue guidance on strong product demand,positive,0.71,CNBC
+2025-09-21,AAPL,Apple Inc,US,Technology,Apple Inc dividend hike signals robust free cash flow generation,positive,0.746,MarketWatch
+2025-09-27,AAPL,Apple Inc,US,Technology,Apple Inc supply chain issues hit quarterly margins severely,negative,0.753,CNBC
+2025-10-02,AAPL,Apple Inc,US,Technology,Apple Inc faces class action lawsuit over product defects,negative,0.645,WSJ
+2025-10-03,AAPL,Apple Inc,US,Technology,Apple Inc loses major client contract to competitor,negative,0.693,WSJ
+2025-10-11,AAPL,Apple Inc,US,Technology,"Analysts upgrade Apple Inc to 'Strong Buy', raise price target 20%",positive,0.834,WSJ
+2025-10-11,AAPL,Apple Inc,US,Technology,Apple Inc Q3 results in line with Street expectations,neutral,0.527,Bloomberg
+2025-10-13,AAPL,Apple Inc,US,Technology,Apple Inc wins landmark government contract worth billions,positive,0.99,Bloomberg
+2025-10-14,AAPL,Apple Inc,US,Technology,"Apple Inc posts strongest revenue growth in 5 years, margins expand",positive,0.673,CNBC
+2025-10-16,AAPL,Apple Inc,US,Technology,"Apple Inc faces regulatory investigation, shares under pressure",negative,0.787,WSJ
+2025-10-30,AAPL,Apple Inc,US,Technology,Apple Inc announces annual general meeting date,neutral,0.431,MarketWatch
+2025-11-02,AAPL,Apple Inc,US,Technology,Analysts downgrade Apple Inc citing stretched valuations,negative,0.42,CNBC
+2025-11-15,AAPL,Apple Inc,US,Technology,"Apple Inc faces regulatory investigation, shares under pressure",negative,0.603,Reuters
+2025-11-15,AAPL,Apple Inc,US,Technology,Apple Inc appoints new Chief Technology Officer,neutral,0.749,CNBC
+2025-11-23,AAPL,Apple Inc,US,Technology,Apple Inc maintains annual guidance unchanged,neutral,0.557,Seeking Alpha
+2025-11-29,AAPL,Apple Inc,US,Technology,"Apple Inc misses Q3 earnings estimates, shares fall 8%",negative,0.642,CNBC
+2025-12-08,AAPL,Apple Inc,US,Technology,Apple Inc issues profit warning citing rising input costs,negative,0.731,Bloomberg
+2025-12-17,AAPL,Apple Inc,US,Technology,"Apple Inc announces 5,000 job cuts as growth slows",negative,0.641,Seeking Alpha
+2025-12-25,AAPL,Apple Inc,US,Technology,"Apple Inc announces ₹2,000 Cr share buyback programme",positive,0.518,WSJ
+2025-12-26,AAPL,Apple Inc,US,Technology,Apple Inc board approves routine capital expenditure plan,neutral,0.604,Reuters
+2026-01-02,AAPL,Apple Inc,US,Technology,Apple Inc announces annual general meeting date,neutral,0.642,Seeking Alpha
+2026-01-07,AAPL,Apple Inc,US,Technology,Apple Inc dividend hike signals robust free cash flow generation,positive,0.459,MarketWatch
+2026-01-08,AAPL,Apple Inc,US,Technology,"Apple Inc announces major strategic partnership, stock hits 52-week high",positive,0.762,Seeking Alpha
+2026-01-19,AAPL,Apple Inc,US,Technology,Apple Inc CFO resigns unexpectedly amid accounting review,negative,0.622,MarketWatch
+2026-01-20,AAPL,Apple Inc,US,Technology,Apple Inc Q3 results in line with Street expectations,neutral,0.462,CNBC
+2026-01-27,AAPL,Apple Inc,US,Technology,Apple Inc raises full-year revenue guidance on strong product demand,positive,0.654,Seeking Alpha
+2026-02-06,AAPL,Apple Inc,US,Technology,"Apple Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.769,Bloomberg
+2026-02-14,AAPL,Apple Inc,US,Technology,Apple Inc loses major client contract to competitor,negative,0.703,CNBC
+2026-03-09,AAPL,Apple Inc,US,Technology,Apple Inc stock trades near analyst consensus price target,neutral,0.67,Bloomberg
+2026-03-10,AAPL,Apple Inc,US,Technology,Apple Inc wins landmark government contract worth billions,positive,0.735,WSJ
+2026-03-11,AAPL,Apple Inc,US,Technology,"Apple Inc announces major strategic partnership, stock hits 52-week high",positive,0.874,MarketWatch
+2026-03-11,AAPL,Apple Inc,US,Technology,Apple Inc appoints new Chief Technology Officer,neutral,0.419,CNBC
+2026-03-16,AAPL,Apple Inc,US,Technology,Apple Inc stock trades near analyst consensus price target,neutral,0.59,CNBC
+2026-03-23,AAPL,Apple Inc,US,Technology,Analysts downgrade Apple Inc citing stretched valuations,negative,0.855,Bloomberg
+2026-03-28,AAPL,Apple Inc,US,Technology,Apple Inc board approves routine capital expenditure plan,neutral,0.486,Bloomberg
+2026-03-30,AAPL,Apple Inc,US,Technology,Apple Inc supply chain issues hit quarterly margins severely,negative,0.819,Bloomberg
+2026-04-03,AAPL,Apple Inc,US,Technology,Apple Inc dividend hike signals robust free cash flow generation,positive,0.579,CNBC
+2024-12-07,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.802,Bloomberg
+2024-12-10,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.738,Seeking Alpha
+2024-12-13,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.61,Reuters
+2024-12-16,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc raises full-year revenue guidance on strong product demand,positive,0.812,CNBC
+2024-12-18,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc CFO resigns unexpectedly amid accounting review,negative,0.827,MarketWatch
+2025-01-06,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc announces annual general meeting date,neutral,0.463,WSJ
+2025-01-12,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc loses major client contract to competitor,negative,0.609,Reuters
+2025-01-18,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces ₹2,000 Cr share buyback programme",positive,0.724,WSJ
+2025-01-22,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc announces annual general meeting date,neutral,0.636,Bloomberg
+2025-01-29,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc board approves routine capital expenditure plan,neutral,0.405,WSJ
+2025-02-01,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.784,Bloomberg
+2025-02-01,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc expands into Southeast Asian markets, revenue surges",positive,0.672,Bloomberg
+2025-02-03,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.697,Bloomberg
+2025-02-08,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc hosts investor day, reiterates long-term targets",neutral,0.412,WSJ
+2025-02-15,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc board approves routine capital expenditure plan,neutral,0.549,Seeking Alpha
+2025-02-16,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc faces class action lawsuit over product defects,negative,0.572,MarketWatch
+2025-03-05,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc appoints new Chief Technology Officer,neutral,0.653,MarketWatch
+2025-03-06,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc AI product launch receives overwhelmingly positive reviews,positive,0.868,WSJ
+2025-03-11,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc completes previously announced share buyback,neutral,0.541,Reuters
+2025-03-25,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc loses major client contract to competitor,negative,0.476,Bloomberg
+2025-03-26,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces major strategic partnership, stock hits 52-week high",positive,0.507,WSJ
+2025-03-29,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces ₹2,000 Cr share buyback programme",positive,0.589,CNBC
+2025-04-07,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc faces regulatory investigation, shares under pressure",negative,0.801,WSJ
+2025-04-28,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces ₹2,000 Cr share buyback programme",positive,0.832,Bloomberg
+2025-05-06,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc CFO resigns unexpectedly amid accounting review,negative,0.56,WSJ
+2025-05-12,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.716,MarketWatch
+2025-05-14,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc wins landmark government contract worth billions,positive,0.692,MarketWatch
+2025-05-16,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.948,Bloomberg
+2025-05-16,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces 5,000 job cuts as growth slows",negative,0.814,MarketWatch
+2025-05-19,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc issues profit warning citing rising input costs,negative,0.808,MarketWatch
+2025-05-23,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc CFO resigns unexpectedly amid accounting review,negative,0.786,Bloomberg
+2025-05-30,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc appoints new Chief Technology Officer,neutral,0.541,CNBC
+2025-05-31,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc maintains annual guidance unchanged,neutral,0.748,MarketWatch
+2025-06-09,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc appoints new Chief Technology Officer,neutral,0.419,WSJ
+2025-06-13,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc posts strongest revenue growth in 5 years, margins expand",positive,0.679,WSJ
+2025-06-26,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc board approves routine capital expenditure plan,neutral,0.629,Seeking Alpha
+2025-06-28,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.663,Seeking Alpha
+2025-06-30,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc quarterly volume data in line with seasonal patterns,neutral,0.553,Reuters
+2025-07-09,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc revenue growth decelerates sharply in key segments,negative,0.756,MarketWatch
+2025-07-10,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc CFO resigns unexpectedly amid accounting review,negative,0.616,WSJ
+2025-07-10,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.581,MarketWatch
+2025-07-14,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc raises full-year revenue guidance on strong product demand,positive,0.663,Reuters
+2025-07-16,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.778,WSJ
+2025-07-18,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc appoints new Chief Technology Officer,neutral,0.51,MarketWatch
+2025-07-18,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc revenue growth decelerates sharply in key segments,negative,0.697,Bloomberg
+2025-07-23,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc raises full-year revenue guidance on strong product demand,positive,0.806,Reuters
+2025-08-02,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc raises full-year revenue guidance on strong product demand,positive,0.895,MarketWatch
+2025-08-03,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc Q3 results in line with Street expectations,neutral,0.499,WSJ
+2025-08-18,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc appoints new Chief Technology Officer,neutral,0.371,WSJ
+2025-08-23,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc board approves routine capital expenditure plan,neutral,0.602,Seeking Alpha
+2025-08-24,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc maintains annual guidance unchanged,neutral,0.533,Reuters
+2025-08-28,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc expands into Southeast Asian markets, revenue surges",positive,0.441,MarketWatch
+2025-09-11,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc faces regulatory investigation, shares under pressure",negative,0.735,Seeking Alpha
+2025-09-14,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc raises full-year revenue guidance on strong product demand,positive,0.601,MarketWatch
+2025-09-15,AMZN,Amazon.com Inc,US,E-Commerce,Analysts downgrade Amazon.com Inc citing stretched valuations,negative,0.897,WSJ
+2025-09-19,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.864,MarketWatch
+2025-09-23,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.773,CNBC
+2025-09-27,AMZN,Amazon.com Inc,US,E-Commerce,Analysts downgrade Amazon.com Inc citing stretched valuations,negative,0.643,MarketWatch
+2025-09-29,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces ₹2,000 Cr share buyback programme",positive,0.554,Seeking Alpha
+2025-10-01,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc wins landmark government contract worth billions,positive,0.801,Seeking Alpha
+2025-10-18,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc board approves routine capital expenditure plan,neutral,0.529,WSJ
+2025-10-19,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc expands into Southeast Asian markets, revenue surges",positive,0.874,Bloomberg
+2025-10-19,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.888,Reuters
+2025-10-20,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc raises full-year revenue guidance on strong product demand,positive,0.673,MarketWatch
+2025-11-16,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc hosts investor day, reiterates long-term targets",neutral,0.766,CNBC
+2025-11-18,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc AI product launch receives overwhelmingly positive reviews,positive,0.828,Seeking Alpha
+2025-11-24,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc posts strongest revenue growth in 5 years, margins expand",positive,0.638,Seeking Alpha
+2025-12-08,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.724,WSJ
+2025-12-12,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc maintains annual guidance unchanged,neutral,0.467,Bloomberg
+2025-12-24,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc announces annual general meeting date,neutral,0.466,Reuters
+2025-12-26,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.821,Seeking Alpha
+2025-12-27,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc appoints new Chief Technology Officer,neutral,0.562,MarketWatch
+2026-01-29,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc faces class action lawsuit over product defects,negative,0.749,Reuters
+2026-01-30,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc faces class action lawsuit over product defects,negative,0.528,WSJ
+2026-02-04,AMZN,Amazon.com Inc,US,E-Commerce,"Analysts upgrade Amazon.com Inc to 'Strong Buy', raise price target 20%",positive,0.686,Bloomberg
+2026-02-22,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc announces ₹2,000 Cr share buyback programme",positive,0.63,Bloomberg
+2026-02-26,AMZN,Amazon.com Inc,US,E-Commerce,"Amazon.com Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.621,CNBC
+2026-03-05,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc issues profit warning citing rising input costs,negative,0.594,Bloomberg
+2026-03-21,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc dividend hike signals robust free cash flow generation,positive,0.674,Seeking Alpha
+2026-03-31,AMZN,Amazon.com Inc,US,E-Commerce,Amazon.com Inc maintains annual guidance unchanged,neutral,0.381,MarketWatch
+2024-12-13,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces 5,000 job cuts as growth slows",negative,0.799,Economic Times
+2024-12-15,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.588,NDTV Profit
+2024-12-16,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance Q3 results in line with Street expectations,neutral,0.498,Mint
+2024-12-16,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance Q3 results in line with Street expectations,neutral,0.544,Mint
+2024-12-30,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance dividend hike signals robust free cash flow generation,positive,0.724,Mint
+2025-01-03,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance board approves routine capital expenditure plan,neutral,0.627,Business Standard
+2025-01-06,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Analysts upgrade Bajaj Finance to 'Strong Buy', raise price target 20%",positive,0.726,NDTV Profit
+2025-01-07,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.551,Livemint
+2025-01-10,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance CFO resigns unexpectedly amid accounting review,negative,0.748,NDTV Profit
+2025-01-10,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance Q3 results in line with Street expectations,neutral,0.469,NDTV Profit
+2025-01-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance CFO resigns unexpectedly amid accounting review,negative,0.57,NDTV Profit
+2025-01-29,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance hosts investor day, reiterates long-term targets",neutral,0.396,Economic Times
+2025-02-12,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance supply chain issues hit quarterly margins severely,negative,0.763,Economic Times
+2025-02-20,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance dividend hike signals robust free cash flow generation,positive,0.86,Economic Times
+2025-02-26,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance faces class action lawsuit over product defects,negative,0.846,Moneycontrol
+2025-02-26,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance quarterly volume data in line with seasonal patterns,neutral,0.529,Mint
+2025-02-28,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance quarterly volume data in line with seasonal patterns,neutral,0.543,Economic Times
+2025-03-01,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance issues profit warning citing rising input costs,negative,0.729,Mint
+2025-03-06,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance CFO resigns unexpectedly amid accounting review,negative,0.746,Mint
+2025-03-13,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance maintains annual guidance unchanged,neutral,0.436,Business Standard
+2025-03-18,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance raises full-year revenue guidance on strong product demand,positive,0.695,Moneycontrol
+2025-03-22,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance reports record quarterly earnings, beats analyst estimates by 12%",positive,0.511,Business Standard
+2025-04-08,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces ₹2,000 Cr share buyback programme",positive,0.825,Business Standard
+2025-04-09,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance faces regulatory investigation, shares under pressure",negative,0.736,Moneycontrol
+2025-04-14,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance raises full-year revenue guidance on strong product demand,positive,0.746,Business Standard
+2025-04-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance misses Q3 earnings estimates, shares fall 8%",negative,0.786,Business Standard
+2025-04-25,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance dividend hike signals robust free cash flow generation,positive,0.755,Business Standard
+2025-05-16,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance expands into Southeast Asian markets, revenue surges",positive,0.979,Moneycontrol
+2025-05-17,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces 5,000 job cuts as growth slows",negative,0.696,Economic Times
+2025-05-24,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance CFO resigns unexpectedly amid accounting review,negative,0.664,Moneycontrol
+2025-06-07,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance board approves routine capital expenditure plan,neutral,0.67,Moneycontrol
+2025-06-09,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance reports record quarterly earnings, beats analyst estimates by 12%",positive,0.826,Moneycontrol
+2025-06-10,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance faces class action lawsuit over product defects,negative,0.598,Mint
+2025-06-13,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance issues profit warning citing rising input costs,negative,0.878,Business Standard
+2025-06-14,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance announces annual general meeting date,neutral,0.701,Livemint
+2025-06-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance misses Q3 earnings estimates, shares fall 8%",negative,0.74,Business Standard
+2025-06-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance wins landmark government contract worth billions,positive,0.655,Mint
+2025-06-29,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Market initiates coverage on Bajaj Finance with 'Hold' rating,neutral,0.35,Business Standard
+2025-07-06,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance wins landmark government contract worth billions,positive,0.737,Business Standard
+2025-07-08,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.836,Moneycontrol
+2025-07-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.722,Moneycontrol
+2025-07-24,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance loses major client contract to competitor,negative,0.582,Business Standard
+2025-07-26,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance faces class action lawsuit over product defects,negative,0.798,Mint
+2025-08-05,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance posts strongest revenue growth in 5 years, margins expand",positive,0.75,Mint
+2025-08-05,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance maintains annual guidance unchanged,neutral,0.561,Business Standard
+2025-08-06,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance loses major client contract to competitor,negative,0.801,Business Standard
+2025-08-07,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces 5,000 job cuts as growth slows",negative,0.588,Livemint
+2025-08-20,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance maintains annual guidance unchanged,neutral,0.562,Business Standard
+2025-08-22,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance completes previously announced share buyback,neutral,0.533,Livemint
+2025-08-23,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance raises full-year revenue guidance on strong product demand,positive,0.726,NDTV Profit
+2025-09-03,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance raises full-year revenue guidance on strong product demand,positive,0.629,Economic Times
+2025-09-19,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces major strategic partnership, stock hits 52-week high",positive,0.949,NDTV Profit
+2025-10-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance announces annual general meeting date,neutral,0.382,NDTV Profit
+2025-10-23,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance expands into Southeast Asian markets, revenue surges",positive,0.589,Moneycontrol
+2025-10-24,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Analysts upgrade Bajaj Finance to 'Strong Buy', raise price target 20%",positive,0.702,Livemint
+2025-10-26,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance board approves routine capital expenditure plan,neutral,0.434,Economic Times
+2025-10-27,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Analysts upgrade Bajaj Finance to 'Strong Buy', raise price target 20%",positive,0.749,Moneycontrol
+2025-11-06,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance wins landmark government contract worth billions,positive,0.601,Business Standard
+2025-11-17,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.664,NDTV Profit
+2025-11-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance Q3 results in line with Street expectations,neutral,0.407,Livemint
+2025-12-10,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance faces regulatory investigation, shares under pressure",negative,0.608,Mint
+2025-12-19,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Analysts upgrade Bajaj Finance to 'Strong Buy', raise price target 20%",positive,0.627,Economic Times
+2025-12-21,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces ₹2,000 Cr share buyback programme",positive,0.66,Economic Times
+2025-12-31,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance appoints new Chief Technology Officer,neutral,0.503,Mint
+2026-01-07,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance loses major client contract to competitor,negative,0.609,Livemint
+2026-01-14,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance faces regulatory investigation, shares under pressure",negative,0.629,Moneycontrol
+2026-01-16,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance wins landmark government contract worth billions,positive,0.588,Mint
+2026-01-20,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.644,NDTV Profit
+2026-01-25,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Analysts downgrade Bajaj Finance citing stretched valuations,negative,0.526,Economic Times
+2026-01-27,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance announces major strategic partnership, stock hits 52-week high",positive,0.917,Business Standard
+2026-01-28,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance completes previously announced share buyback,neutral,0.464,Business Standard
+2026-01-29,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance completes previously announced share buyback,neutral,0.35,Mint
+2026-02-15,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance dividend hike signals robust free cash flow generation,positive,0.752,Moneycontrol
+2026-02-16,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance AI product launch receives overwhelmingly positive reviews,positive,0.658,Business Standard
+2026-02-24,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance reports record quarterly earnings, beats analyst estimates by 12%",positive,0.571,Business Standard
+2026-02-24,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance posts strongest revenue growth in 5 years, margins expand",positive,0.767,Moneycontrol
+2026-03-06,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance supply chain issues hit quarterly margins severely,negative,0.547,Economic Times
+2026-03-13,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,"Bajaj Finance misses Q3 earnings estimates, shares fall 8%",negative,0.464,Mint
+2026-03-17,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance revenue growth decelerates sharply in key segments,negative,0.702,Moneycontrol
+2026-03-27,BAJFINANCE.NS,Bajaj Finance,IN,NBFC,Bajaj Finance announces annual general meeting date,neutral,0.62,Mint
+2024-12-10,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc issues profit warning citing rising input costs,negative,0.737,Reuters
+2024-12-13,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc quarterly volume data in line with seasonal patterns,neutral,0.699,Seeking Alpha
+2024-12-14,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc dividend hike signals robust free cash flow generation,positive,0.717,Reuters
+2024-12-20,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc expands into Southeast Asian markets, revenue surges",positive,0.474,Seeking Alpha
+2024-12-28,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces 5,000 job cuts as growth slows",negative,0.578,Reuters
+2024-12-30,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces 5,000 job cuts as growth slows",negative,0.806,Seeking Alpha
+2025-01-01,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc wins landmark government contract worth billions,positive,0.903,Seeking Alpha
+2025-01-03,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc posts strongest revenue growth in 5 years, margins expand",positive,0.6,WSJ
+2025-01-04,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc faces regulatory investigation, shares under pressure",negative,0.642,WSJ
+2025-01-10,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc dividend hike signals robust free cash flow generation,positive,0.808,MarketWatch
+2025-01-12,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc Q3 results in line with Street expectations,neutral,0.555,MarketWatch
+2025-01-13,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc CFO resigns unexpectedly amid accounting review,negative,0.755,Seeking Alpha
+2025-01-16,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc faces class action lawsuit over product defects,negative,0.802,WSJ
+2025-01-26,GOOGL,Alphabet Inc,US,Technology,"Analysts upgrade Alphabet Inc to 'Strong Buy', raise price target 20%",positive,0.599,WSJ
+2025-01-29,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc AI product launch receives overwhelmingly positive reviews,positive,0.599,CNBC
+2025-02-07,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.82,CNBC
+2025-02-11,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc stock trades near analyst consensus price target,neutral,0.47,Seeking Alpha
+2025-02-13,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces 5,000 job cuts as growth slows",negative,0.765,Seeking Alpha
+2025-02-15,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc dividend hike signals robust free cash flow generation,positive,0.763,Bloomberg
+2025-02-24,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc maintains annual guidance unchanged,neutral,0.858,CNBC
+2025-03-11,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.579,MarketWatch
+2025-03-25,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc faces class action lawsuit over product defects,negative,0.689,WSJ
+2025-04-05,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces 5,000 job cuts as growth slows",negative,0.564,Bloomberg
+2025-04-05,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc quarterly volume data in line with seasonal patterns,neutral,0.525,WSJ
+2025-04-09,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc appoints new Chief Technology Officer,neutral,0.633,WSJ
+2025-05-18,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.716,WSJ
+2025-05-27,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc announces annual general meeting date,neutral,0.489,Bloomberg
+2025-05-30,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc faces class action lawsuit over product defects,negative,0.889,Seeking Alpha
+2025-05-31,GOOGL,Alphabet Inc,US,Technology,"Analysts upgrade Alphabet Inc to 'Strong Buy', raise price target 20%",positive,0.758,Reuters
+2025-06-07,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc expands into Southeast Asian markets, revenue surges",positive,0.698,Seeking Alpha
+2025-06-08,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc maintains annual guidance unchanged,neutral,0.614,Bloomberg
+2025-06-27,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc AI product launch receives overwhelmingly positive reviews,positive,0.628,MarketWatch
+2025-07-01,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc board approves routine capital expenditure plan,neutral,0.498,WSJ
+2025-07-01,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc stock trades near analyst consensus price target,neutral,0.786,WSJ
+2025-07-09,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc faces regulatory investigation, shares under pressure",negative,0.779,CNBC
+2025-07-13,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc AI product launch receives overwhelmingly positive reviews,positive,0.875,MarketWatch
+2025-07-14,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc dividend hike signals robust free cash flow generation,positive,0.86,WSJ
+2025-07-15,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc posts strongest revenue growth in 5 years, margins expand",positive,0.747,Bloomberg
+2025-07-28,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc announces annual general meeting date,neutral,0.62,WSJ
+2025-08-05,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc faces regulatory investigation, shares under pressure",negative,0.886,CNBC
+2025-08-14,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc raises full-year revenue guidance on strong product demand,positive,0.763,MarketWatch
+2025-08-29,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc supply chain issues hit quarterly margins severely,negative,0.909,CNBC
+2025-08-30,GOOGL,Alphabet Inc,US,Technology,"Analysts upgrade Alphabet Inc to 'Strong Buy', raise price target 20%",positive,0.771,WSJ
+2025-09-07,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.824,Bloomberg
+2025-09-14,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc AI product launch receives overwhelmingly positive reviews,positive,0.72,Seeking Alpha
+2025-09-14,GOOGL,Alphabet Inc,US,Technology,"Analysts upgrade Alphabet Inc to 'Strong Buy', raise price target 20%",positive,0.929,MarketWatch
+2025-10-05,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces ₹2,000 Cr share buyback programme",positive,0.874,Bloomberg
+2025-10-05,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces ₹2,000 Cr share buyback programme",positive,0.785,Seeking Alpha
+2025-10-06,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc loses major client contract to competitor,negative,0.788,Seeking Alpha
+2025-10-06,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc faces regulatory investigation, shares under pressure",negative,0.971,Reuters
+2025-10-13,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc revenue growth decelerates sharply in key segments,negative,0.71,Bloomberg
+2025-10-17,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc expands into Southeast Asian markets, revenue surges",positive,0.77,Seeking Alpha
+2025-10-21,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc appoints new Chief Technology Officer,neutral,0.481,WSJ
+2025-10-29,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.69,Bloomberg
+2025-11-12,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces ₹2,000 Cr share buyback programme",positive,0.517,MarketWatch
+2025-11-14,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc CFO resigns unexpectedly amid accounting review,negative,0.554,Seeking Alpha
+2025-11-15,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc AI product launch receives overwhelmingly positive reviews,positive,0.847,WSJ
+2025-11-16,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.739,Seeking Alpha
+2025-11-21,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc wins landmark government contract worth billions,positive,0.884,Bloomberg
+2025-11-27,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.966,Bloomberg
+2025-12-02,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc appoints new Chief Technology Officer,neutral,0.527,Bloomberg
+2025-12-03,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc misses Q3 earnings estimates, shares fall 8%",negative,0.572,MarketWatch
+2025-12-16,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc expands into Southeast Asian markets, revenue surges",positive,0.454,Seeking Alpha
+2025-12-18,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc dividend hike signals robust free cash flow generation,positive,0.87,Seeking Alpha
+2025-12-24,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc expands into Southeast Asian markets, revenue surges",positive,0.756,WSJ
+2026-01-07,GOOGL,Alphabet Inc,US,Technology,"Analysts upgrade Alphabet Inc to 'Strong Buy', raise price target 20%",positive,0.782,WSJ
+2026-01-25,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc hosts investor day, reiterates long-term targets",neutral,0.501,Reuters
+2026-01-31,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc hosts investor day, reiterates long-term targets",neutral,0.419,WSJ
+2026-02-02,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces ₹2,000 Cr share buyback programme",positive,0.862,MarketWatch
+2026-02-08,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc maintains annual guidance unchanged,neutral,0.475,Bloomberg
+2026-02-08,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc faces class action lawsuit over product defects,negative,0.83,CNBC
+2026-02-15,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc announces annual general meeting date,neutral,0.573,Seeking Alpha
+2026-02-20,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc dividend hike signals robust free cash flow generation,positive,0.531,Reuters
+2026-02-28,GOOGL,Alphabet Inc,US,Technology,Analysts downgrade Alphabet Inc citing stretched valuations,negative,0.858,WSJ
+2026-03-01,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc Q3 results in line with Street expectations,neutral,0.695,Bloomberg
+2026-03-09,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc board approves routine capital expenditure plan,neutral,0.666,Bloomberg
+2026-03-19,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc expands into Southeast Asian markets, revenue surges",positive,0.653,Bloomberg
+2026-03-26,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc announces ₹2,000 Cr share buyback programme",positive,0.536,Bloomberg
+2026-03-28,GOOGL,Alphabet Inc,US,Technology,"Alphabet Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.77,Reuters
+2026-03-31,GOOGL,Alphabet Inc,US,Technology,Alphabet Inc announces annual general meeting date,neutral,0.365,CNBC
+2024-12-09,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces 5,000 job cuts as growth slows",negative,0.562,Moneycontrol
+2024-12-10,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.506,NDTV Profit
+2024-12-17,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank maintains annual guidance unchanged,neutral,0.414,Moneycontrol
+2024-12-18,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank misses Q3 earnings estimates, shares fall 8%",negative,0.723,NDTV Profit
+2024-12-25,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces major strategic partnership, stock hits 52-week high",positive,0.672,NDTV Profit
+2025-01-09,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank appoints new Chief Technology Officer,neutral,0.456,Economic Times
+2025-01-12,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank expands into Southeast Asian markets, revenue surges",positive,0.694,Livemint
+2025-01-21,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces major strategic partnership, stock hits 52-week high",positive,0.697,NDTV Profit
+2025-01-21,HDFCBANK.NS,HDFC Bank,IN,Banking,"Analysts upgrade HDFC Bank to 'Strong Buy', raise price target 20%",positive,0.692,Economic Times
+2025-01-25,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank faces class action lawsuit over product defects,negative,0.742,NDTV Profit
+2025-01-29,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces major strategic partnership, stock hits 52-week high",positive,0.527,Moneycontrol
+2025-02-01,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.758,Economic Times
+2025-02-09,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank completes previously announced share buyback,neutral,0.639,Livemint
+2025-02-18,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank raises full-year revenue guidance on strong product demand,positive,0.694,Moneycontrol
+2025-02-19,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank wins landmark government contract worth billions,positive,0.611,Business Standard
+2025-02-21,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank posts strongest revenue growth in 5 years, margins expand",positive,0.901,Business Standard
+2025-02-24,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank completes previously announced share buyback,neutral,0.606,NDTV Profit
+2025-03-02,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank loses major client contract to competitor,negative,0.803,Mint
+2025-03-09,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces major strategic partnership, stock hits 52-week high",positive,0.612,Moneycontrol
+2025-03-09,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces 5,000 job cuts as growth slows",negative,0.781,Livemint
+2025-03-11,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank expands into Southeast Asian markets, revenue surges",positive,0.616,Economic Times
+2025-03-24,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank revenue growth decelerates sharply in key segments,negative,0.596,Business Standard
+2025-04-01,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank AI product launch receives overwhelmingly positive reviews,positive,0.639,Mint
+2025-04-02,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank announces annual general meeting date,neutral,0.618,Economic Times
+2025-04-07,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank misses Q3 earnings estimates, shares fall 8%",negative,0.526,Moneycontrol
+2025-04-13,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank revenue growth decelerates sharply in key segments,negative,0.654,Economic Times
+2025-04-20,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank expands into Southeast Asian markets, revenue surges",positive,0.857,Moneycontrol
+2025-04-22,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank supply chain issues hit quarterly margins severely,negative,0.594,NDTV Profit
+2025-04-26,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank quarterly volume data in line with seasonal patterns,neutral,0.578,Mint
+2025-04-29,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank misses Q3 earnings estimates, shares fall 8%",negative,0.581,Moneycontrol
+2025-05-15,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank loses major client contract to competitor,negative,0.583,NDTV Profit
+2025-05-16,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank stock trades near analyst consensus price target,neutral,0.491,Business Standard
+2025-05-21,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank faces class action lawsuit over product defects,negative,0.8,Moneycontrol
+2025-05-22,HDFCBANK.NS,HDFC Bank,IN,Banking,"Analysts upgrade HDFC Bank to 'Strong Buy', raise price target 20%",positive,0.688,Mint
+2025-05-30,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank CFO resigns unexpectedly amid accounting review,negative,0.529,Business Standard
+2025-07-02,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank completes previously announced share buyback,neutral,0.653,Business Standard
+2025-07-26,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank expands into Southeast Asian markets, revenue surges",positive,0.626,Economic Times
+2025-08-01,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank completes previously announced share buyback,neutral,0.644,Livemint
+2025-08-17,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank revenue growth decelerates sharply in key segments,negative,0.671,Mint
+2025-09-02,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank misses Q3 earnings estimates, shares fall 8%",negative,0.909,NDTV Profit
+2025-09-08,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank issues profit warning citing rising input costs,negative,0.548,Mint
+2025-09-13,HDFCBANK.NS,HDFC Bank,IN,Banking,Analysts downgrade HDFC Bank citing stretched valuations,negative,0.716,Business Standard
+2025-10-02,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank posts strongest revenue growth in 5 years, margins expand",positive,0.388,Mint
+2025-10-03,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.941,Economic Times
+2025-10-07,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank supply chain issues hit quarterly margins severely,negative,0.553,Economic Times
+2025-10-07,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank CFO resigns unexpectedly amid accounting review,negative,0.72,Livemint
+2025-10-08,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank announces annual general meeting date,neutral,0.588,Livemint
+2025-10-09,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank maintains annual guidance unchanged,neutral,0.446,Livemint
+2025-10-09,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces major strategic partnership, stock hits 52-week high",positive,0.708,Mint
+2025-10-10,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank Q3 results in line with Street expectations,neutral,0.715,Livemint
+2025-10-11,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.641,Mint
+2025-10-16,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank misses Q3 earnings estimates, shares fall 8%",negative,0.614,Mint
+2025-10-19,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank CFO resigns unexpectedly amid accounting review,negative,0.784,Moneycontrol
+2025-10-27,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank posts strongest revenue growth in 5 years, margins expand",positive,0.717,Economic Times
+2025-10-27,HDFCBANK.NS,HDFC Bank,IN,Banking,"Analysts upgrade HDFC Bank to 'Strong Buy', raise price target 20%",positive,0.688,NDTV Profit
+2025-10-29,HDFCBANK.NS,HDFC Bank,IN,Banking,Analysts downgrade HDFC Bank citing stretched valuations,negative,0.832,Business Standard
+2025-11-07,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank AI product launch receives overwhelmingly positive reviews,positive,0.759,Mint
+2025-11-11,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.568,Moneycontrol
+2025-11-19,HDFCBANK.NS,HDFC Bank,IN,Banking,Analysts downgrade HDFC Bank citing stretched valuations,negative,0.781,NDTV Profit
+2025-12-05,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank stock trades near analyst consensus price target,neutral,0.765,Livemint
+2025-12-07,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank board approves routine capital expenditure plan,neutral,0.565,Moneycontrol
+2025-12-15,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.814,Economic Times
+2025-12-19,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces ₹2,000 Cr share buyback programme",positive,0.8,Economic Times
+2026-01-06,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank faces class action lawsuit over product defects,negative,0.656,Business Standard
+2026-01-12,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank revenue growth decelerates sharply in key segments,negative,0.722,Moneycontrol
+2026-01-24,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank maintains annual guidance unchanged,neutral,0.49,Mint
+2026-01-25,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank loses major client contract to competitor,negative,0.699,Moneycontrol
+2026-01-28,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.921,Mint
+2026-02-01,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank posts strongest revenue growth in 5 years, margins expand",positive,0.652,Mint
+2026-02-05,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank expands into Southeast Asian markets, revenue surges",positive,0.887,Moneycontrol
+2026-02-05,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank AI product launch receives overwhelmingly positive reviews,positive,0.576,Mint
+2026-03-08,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank expands into Southeast Asian markets, revenue surges",positive,0.596,Mint
+2026-03-19,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank Q3 results in line with Street expectations,neutral,0.508,Moneycontrol
+2026-03-22,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank maintains annual guidance unchanged,neutral,0.517,Business Standard
+2026-03-24,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank raises full-year revenue guidance on strong product demand,positive,0.982,Mint
+2026-03-24,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank faces regulatory investigation, shares under pressure",negative,0.743,NDTV Profit
+2026-04-02,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank reports record quarterly earnings, beats analyst estimates by 12%",positive,0.865,Economic Times
+2026-04-05,HDFCBANK.NS,HDFC Bank,IN,Banking,"HDFC Bank announces 5,000 job cuts as growth slows",negative,0.681,NDTV Profit
+2026-04-11,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank AI product launch receives overwhelmingly positive reviews,positive,0.789,Mint
+2026-04-16,HDFCBANK.NS,HDFC Bank,IN,Banking,HDFC Bank faces class action lawsuit over product defects,negative,0.512,Mint
+2024-12-07,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever faces regulatory investigation, shares under pressure",negative,0.644,Livemint
+2024-12-17,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever reports record quarterly earnings, beats analyst estimates by 12%",positive,0.608,Mint
+2024-12-22,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever AI product launch receives overwhelmingly positive reviews,positive,0.615,Economic Times
+2025-01-05,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever completes previously announced share buyback,neutral,0.55,Moneycontrol
+2025-01-28,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever appoints new Chief Technology Officer,neutral,0.449,NDTV Profit
+2025-02-02,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever wins landmark government contract worth billions,positive,0.657,Moneycontrol
+2025-02-02,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever completes previously announced share buyback,neutral,0.616,NDTV Profit
+2025-02-03,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever announces annual general meeting date,neutral,0.499,Mint
+2025-02-06,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever supply chain issues hit quarterly margins severely,negative,0.714,Mint
+2025-02-09,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever AI product launch receives overwhelmingly positive reviews,positive,0.777,Mint
+2025-02-12,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever posts strongest revenue growth in 5 years, margins expand",positive,0.737,Economic Times
+2025-02-14,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever dividend hike signals robust free cash flow generation,positive,0.715,Business Standard
+2025-02-17,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces major strategic partnership, stock hits 52-week high",positive,0.521,Mint
+2025-03-04,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever posts strongest revenue growth in 5 years, margins expand",positive,0.486,Mint
+2025-03-07,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.578,Livemint
+2025-03-12,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever loses major client contract to competitor,negative,0.99,Mint
+2025-03-16,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces 5,000 job cuts as growth slows",negative,0.531,Livemint
+2025-03-17,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.426,Business Standard
+2025-03-22,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever supply chain issues hit quarterly margins severely,negative,0.68,Economic Times
+2025-03-23,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever appoints new Chief Technology Officer,neutral,0.739,Livemint
+2025-04-02,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever AI product launch receives overwhelmingly positive reviews,positive,0.683,Business Standard
+2025-04-05,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever completes previously announced share buyback,neutral,0.433,NDTV Profit
+2025-04-17,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Market initiates coverage on Hindustan Unilever with 'Hold' rating,neutral,0.606,Mint
+2025-04-23,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever posts strongest revenue growth in 5 years, margins expand",positive,0.746,Economic Times
+2025-04-29,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever quarterly volume data in line with seasonal patterns,neutral,0.35,Moneycontrol
+2025-05-06,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever announces annual general meeting date,neutral,0.614,Business Standard
+2025-05-09,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever completes previously announced share buyback,neutral,0.527,Economic Times
+2025-05-10,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever CFO resigns unexpectedly amid accounting review,negative,0.504,Business Standard
+2025-05-14,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever announces annual general meeting date,neutral,0.61,Livemint
+2025-05-21,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces 5,000 job cuts as growth slows",negative,0.848,Livemint
+2025-05-24,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever reports record quarterly earnings, beats analyst estimates by 12%",positive,0.757,Economic Times
+2025-05-29,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.68,Moneycontrol
+2025-06-01,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever AI product launch receives overwhelmingly positive reviews,positive,0.779,Livemint
+2025-06-06,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces ₹2,000 Cr share buyback programme",positive,0.755,Moneycontrol
+2025-06-07,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces major strategic partnership, stock hits 52-week high",positive,0.872,Livemint
+2025-06-07,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever revenue growth decelerates sharply in key segments,negative,0.821,Business Standard
+2025-06-20,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.472,NDTV Profit
+2025-06-21,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Analysts upgrade Hindustan Unilever to 'Strong Buy', raise price target 20%",positive,0.424,Livemint
+2025-06-23,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces 5,000 job cuts as growth slows",negative,0.609,Mint
+2025-07-02,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces major strategic partnership, stock hits 52-week high",positive,0.727,Mint
+2025-07-07,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever completes previously announced share buyback,neutral,0.471,Mint
+2025-07-19,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever posts strongest revenue growth in 5 years, margins expand",positive,0.734,Business Standard
+2025-07-26,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever posts strongest revenue growth in 5 years, margins expand",positive,0.715,Livemint
+2025-07-26,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever dividend hike signals robust free cash flow generation,positive,0.762,Moneycontrol
+2025-07-28,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.686,Economic Times
+2025-08-12,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever loses major client contract to competitor,negative,0.401,Mint
+2025-08-30,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.755,Economic Times
+2025-09-01,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Analysts upgrade Hindustan Unilever to 'Strong Buy', raise price target 20%",positive,0.798,Economic Times
+2025-09-04,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever quarterly volume data in line with seasonal patterns,neutral,0.513,Livemint
+2025-09-05,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever expands into Southeast Asian markets, revenue surges",positive,0.674,NDTV Profit
+2025-09-05,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever loses major client contract to competitor,negative,0.753,Business Standard
+2025-09-19,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever quarterly volume data in line with seasonal patterns,neutral,0.35,NDTV Profit
+2025-10-02,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever loses major client contract to competitor,negative,0.719,NDTV Profit
+2025-10-09,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever appoints new Chief Technology Officer,neutral,0.42,Economic Times
+2025-10-21,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever stock trades near analyst consensus price target,neutral,0.58,Mint
+2025-10-22,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever faces regulatory investigation, shares under pressure",negative,0.732,Livemint
+2025-10-24,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever announces annual general meeting date,neutral,0.612,Economic Times
+2025-11-04,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever misses Q3 earnings estimates, shares fall 8%",negative,0.839,Moneycontrol
+2025-11-09,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever supply chain issues hit quarterly margins severely,negative,0.578,Mint
+2025-11-16,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever revenue growth decelerates sharply in key segments,negative,0.792,Economic Times
+2025-11-17,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever CFO resigns unexpectedly amid accounting review,negative,0.953,Business Standard
+2025-11-18,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever appoints new Chief Technology Officer,neutral,0.651,Mint
+2025-11-21,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever issues profit warning citing rising input costs,negative,0.705,NDTV Profit
+2025-11-22,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever appoints new Chief Technology Officer,neutral,0.55,Economic Times
+2025-11-30,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever revenue growth decelerates sharply in key segments,negative,0.661,Moneycontrol
+2025-12-06,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Market initiates coverage on Hindustan Unilever with 'Hold' rating,neutral,0.702,Mint
+2025-12-23,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever announces major strategic partnership, stock hits 52-week high",positive,0.816,Livemint
+2026-01-09,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever maintains annual guidance unchanged,neutral,0.35,Livemint
+2026-01-15,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Analysts downgrade Hindustan Unilever citing stretched valuations,negative,0.723,Moneycontrol
+2026-02-01,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Analysts downgrade Hindustan Unilever citing stretched valuations,negative,0.508,Livemint
+2026-02-13,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever appoints new Chief Technology Officer,neutral,0.641,NDTV Profit
+2026-02-28,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Market initiates coverage on Hindustan Unilever with 'Hold' rating,neutral,0.666,Mint
+2026-03-08,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever Q3 results in line with Street expectations,neutral,0.379,Moneycontrol
+2026-03-10,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever revenue growth decelerates sharply in key segments,negative,0.753,Business Standard
+2026-03-16,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever faces regulatory investigation, shares under pressure",negative,0.942,Business Standard
+2026-03-23,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever loses major client contract to competitor,negative,0.588,Livemint
+2026-04-03,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,"Hindustan Unilever misses Q3 earnings estimates, shares fall 8%",negative,0.785,Economic Times
+2026-04-15,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever quarterly volume data in line with seasonal patterns,neutral,0.596,Moneycontrol
+2026-04-17,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever CFO resigns unexpectedly amid accounting review,negative,0.68,Business Standard
+2026-04-18,HINDUNILVR.NS,Hindustan Unilever,IN,FMCG,Hindustan Unilever wins landmark government contract worth billions,positive,0.701,NDTV Profit
+2024-12-12,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank revenue growth decelerates sharply in key segments,negative,0.546,Business Standard
+2024-12-29,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank dividend hike signals robust free cash flow generation,positive,0.605,Moneycontrol
+2025-01-01,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.818,Business Standard
+2025-01-05,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank announces annual general meeting date,neutral,0.628,NDTV Profit
+2025-01-05,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank revenue growth decelerates sharply in key segments,negative,0.682,NDTV Profit
+2025-01-06,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.753,Moneycontrol
+2025-01-07,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.446,Moneycontrol
+2025-01-19,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank AI product launch receives overwhelmingly positive reviews,positive,0.623,Economic Times
+2025-01-30,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank AI product launch receives overwhelmingly positive reviews,positive,0.677,Livemint
+2025-02-03,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.803,Business Standard
+2025-02-07,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank appoints new Chief Technology Officer,neutral,0.559,Mint
+2025-02-13,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces 5,000 job cuts as growth slows",negative,0.837,Business Standard
+2025-02-14,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank misses Q3 earnings estimates, shares fall 8%",negative,0.706,Economic Times
+2025-02-20,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank CFO resigns unexpectedly amid accounting review,negative,0.623,Moneycontrol
+2025-02-23,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank raises full-year revenue guidance on strong product demand,positive,0.469,NDTV Profit
+2025-03-02,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank posts strongest revenue growth in 5 years, margins expand",positive,0.706,NDTV Profit
+2025-03-03,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank CFO resigns unexpectedly amid accounting review,negative,0.551,Mint
+2025-03-04,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank revenue growth decelerates sharply in key segments,negative,0.671,Business Standard
+2025-03-09,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank faces class action lawsuit over product defects,negative,0.668,NDTV Profit
+2025-03-15,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank misses Q3 earnings estimates, shares fall 8%",negative,0.727,Mint
+2025-03-17,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank wins landmark government contract worth billions,positive,0.803,NDTV Profit
+2025-03-18,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank issues profit warning citing rising input costs,negative,0.586,Economic Times
+2025-04-06,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank hosts investor day, reiterates long-term targets",neutral,0.88,Livemint
+2025-04-09,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.616,Livemint
+2025-04-09,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank AI product launch receives overwhelmingly positive reviews,positive,0.765,Livemint
+2025-04-10,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank misses Q3 earnings estimates, shares fall 8%",negative,0.807,Livemint
+2025-04-23,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces 5,000 job cuts as growth slows",negative,0.558,Economic Times
+2025-04-29,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank dividend hike signals robust free cash flow generation,positive,0.717,Economic Times
+2025-04-29,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank appoints new Chief Technology Officer,neutral,0.35,Economic Times
+2025-05-06,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank announces annual general meeting date,neutral,0.54,Livemint
+2025-05-18,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank Q3 results in line with Street expectations,neutral,0.379,Economic Times
+2025-05-19,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.733,Livemint
+2025-05-22,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.709,Livemint
+2025-06-03,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank stock trades near analyst consensus price target,neutral,0.741,Business Standard
+2025-06-04,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces major strategic partnership, stock hits 52-week high",positive,0.856,Mint
+2025-06-06,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.495,Economic Times
+2025-06-07,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank supply chain issues hit quarterly margins severely,negative,0.834,Moneycontrol
+2025-06-13,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank wins landmark government contract worth billions,positive,0.803,Moneycontrol
+2025-06-29,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank Q3 results in line with Street expectations,neutral,0.735,Economic Times
+2025-07-01,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank CFO resigns unexpectedly amid accounting review,negative,0.646,Mint
+2025-07-05,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank completes previously announced share buyback,neutral,0.426,Livemint
+2025-07-17,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank posts strongest revenue growth in 5 years, margins expand",positive,0.826,Livemint
+2025-07-27,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank quarterly volume data in line with seasonal patterns,neutral,0.661,Mint
+2025-07-30,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank stock trades near analyst consensus price target,neutral,0.41,Moneycontrol
+2025-07-31,ICICIBANK.NS,ICICI Bank,IN,Banking,"Analysts upgrade ICICI Bank to 'Strong Buy', raise price target 20%",positive,0.729,Livemint
+2025-08-14,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces 5,000 job cuts as growth slows",negative,0.671,Mint
+2025-08-16,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank expands into Southeast Asian markets, revenue surges",positive,0.873,NDTV Profit
+2025-08-31,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.913,Mint
+2025-09-01,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces ₹2,000 Cr share buyback programme",positive,0.99,Business Standard
+2025-09-09,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank dividend hike signals robust free cash flow generation,positive,0.758,Moneycontrol
+2025-09-14,ICICIBANK.NS,ICICI Bank,IN,Banking,"Analysts upgrade ICICI Bank to 'Strong Buy', raise price target 20%",positive,0.968,Economic Times
+2025-09-16,ICICIBANK.NS,ICICI Bank,IN,Banking,Market initiates coverage on ICICI Bank with 'Hold' rating,neutral,0.57,Business Standard
+2025-09-17,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank revenue growth decelerates sharply in key segments,negative,0.86,Moneycontrol
+2025-09-24,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank hosts investor day, reiterates long-term targets",neutral,0.473,Business Standard
+2025-09-28,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank CFO resigns unexpectedly amid accounting review,negative,0.835,Business Standard
+2025-10-02,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank posts strongest revenue growth in 5 years, margins expand",positive,0.791,Mint
+2025-10-25,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank raises full-year revenue guidance on strong product demand,positive,0.825,Moneycontrol
+2025-10-30,ICICIBANK.NS,ICICI Bank,IN,Banking,Market initiates coverage on ICICI Bank with 'Hold' rating,neutral,0.515,Business Standard
+2025-11-08,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank board approves routine capital expenditure plan,neutral,0.535,Moneycontrol
+2025-11-09,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank AI product launch receives overwhelmingly positive reviews,positive,0.764,Business Standard
+2025-11-12,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank expands into Southeast Asian markets, revenue surges",positive,0.572,Mint
+2025-12-02,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank issues profit warning citing rising input costs,negative,0.618,Livemint
+2025-12-06,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank faces regulatory investigation, shares under pressure",negative,0.72,Mint
+2025-12-16,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank faces class action lawsuit over product defects,negative,0.648,Livemint
+2025-12-20,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank CFO resigns unexpectedly amid accounting review,negative,0.651,Economic Times
+2025-12-29,ICICIBANK.NS,ICICI Bank,IN,Banking,"Analysts upgrade ICICI Bank to 'Strong Buy', raise price target 20%",positive,0.583,Moneycontrol
+2026-01-04,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.729,Livemint
+2026-01-30,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank AI product launch receives overwhelmingly positive reviews,positive,0.558,Business Standard
+2026-02-10,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.806,Economic Times
+2026-02-14,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank AI product launch receives overwhelmingly positive reviews,positive,0.751,NDTV Profit
+2026-02-18,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank loses major client contract to competitor,negative,0.907,Business Standard
+2026-03-08,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.833,Livemint
+2026-03-10,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank faces regulatory investigation, shares under pressure",negative,0.756,Business Standard
+2026-03-14,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank Q3 results in line with Street expectations,neutral,0.82,NDTV Profit
+2026-03-28,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces major strategic partnership, stock hits 52-week high",positive,0.817,Livemint
+2026-03-29,ICICIBANK.NS,ICICI Bank,IN,Banking,Analysts downgrade ICICI Bank citing stretched valuations,negative,0.697,Mint
+2026-04-01,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank stock trades near analyst consensus price target,neutral,0.419,Livemint
+2026-04-08,ICICIBANK.NS,ICICI Bank,IN,Banking,ICICI Bank Q3 results in line with Street expectations,neutral,0.487,Economic Times
+2026-04-08,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank posts strongest revenue growth in 5 years, margins expand",positive,0.839,Livemint
+2026-04-11,ICICIBANK.NS,ICICI Bank,IN,Banking,"ICICI Bank announces major strategic partnership, stock hits 52-week high",positive,0.572,NDTV Profit
+2024-12-15,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd expands into Southeast Asian markets, revenue surges",positive,0.757,Livemint
+2024-12-16,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd wins landmark government contract worth billions,positive,0.486,Economic Times
+2024-12-23,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces ₹2,000 Cr share buyback programme",positive,0.488,Economic Times
+2024-12-26,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd completes previously announced share buyback,neutral,0.729,Livemint
+2024-12-30,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd board approves routine capital expenditure plan,neutral,0.508,Mint
+2024-12-31,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd issues profit warning citing rising input costs,negative,0.818,NDTV Profit
+2025-01-04,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.621,Moneycontrol
+2025-01-18,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces ₹2,000 Cr share buyback programme",positive,0.74,Economic Times
+2025-01-25,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd raises full-year revenue guidance on strong product demand,positive,0.866,Mint
+2025-02-12,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd wins landmark government contract worth billions,positive,0.686,Mint
+2025-02-13,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd stock trades near analyst consensus price target,neutral,0.35,NDTV Profit
+2025-02-18,INFY.NS,Infosys Ltd,IN,IT Services,Market initiates coverage on Infosys Ltd with 'Hold' rating,neutral,0.573,Moneycontrol
+2025-03-02,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd revenue growth decelerates sharply in key segments,negative,0.922,Livemint
+2025-03-02,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd posts strongest revenue growth in 5 years, margins expand",positive,0.754,Livemint
+2025-03-05,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd raises full-year revenue guidance on strong product demand,positive,0.918,Livemint
+2025-03-12,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd AI product launch receives overwhelmingly positive reviews,positive,0.877,Economic Times
+2025-03-14,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces ₹2,000 Cr share buyback programme",positive,0.566,Moneycontrol
+2025-03-17,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd board approves routine capital expenditure plan,neutral,0.524,Mint
+2025-03-21,INFY.NS,Infosys Ltd,IN,IT Services,Analysts downgrade Infosys Ltd citing stretched valuations,negative,0.651,Mint
+2025-03-28,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd completes previously announced share buyback,neutral,0.495,NDTV Profit
+2025-04-01,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd revenue growth decelerates sharply in key segments,negative,0.636,Mint
+2025-04-01,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd CFO resigns unexpectedly amid accounting review,negative,0.704,Livemint
+2025-04-03,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd hosts investor day, reiterates long-term targets",neutral,0.484,NDTV Profit
+2025-04-04,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd maintains annual guidance unchanged,neutral,0.682,Moneycontrol
+2025-05-16,INFY.NS,Infosys Ltd,IN,IT Services,"Analysts upgrade Infosys Ltd to 'Strong Buy', raise price target 20%",positive,0.583,Livemint
+2025-05-25,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd issues profit warning citing rising input costs,negative,0.648,Livemint
+2025-06-10,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd appoints new Chief Technology Officer,neutral,0.764,Mint
+2025-06-10,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd CFO resigns unexpectedly amid accounting review,negative,0.971,Economic Times
+2025-06-24,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd AI product launch receives overwhelmingly positive reviews,positive,0.737,NDTV Profit
+2025-06-26,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd supply chain issues hit quarterly margins severely,negative,0.743,Business Standard
+2025-06-27,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd appoints new Chief Technology Officer,neutral,0.539,Moneycontrol
+2025-07-10,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd completes previously announced share buyback,neutral,0.475,Economic Times
+2025-07-10,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd AI product launch receives overwhelmingly positive reviews,positive,0.853,NDTV Profit
+2025-07-13,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd expands into Southeast Asian markets, revenue surges",positive,0.673,NDTV Profit
+2025-07-23,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd issues profit warning citing rising input costs,negative,0.831,Mint
+2025-07-28,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd board approves routine capital expenditure plan,neutral,0.65,Mint
+2025-08-01,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd misses Q3 earnings estimates, shares fall 8%",negative,0.649,Livemint
+2025-08-04,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd misses Q3 earnings estimates, shares fall 8%",negative,0.785,Business Standard
+2025-08-12,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd hosts investor day, reiterates long-term targets",neutral,0.788,Business Standard
+2025-08-16,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd raises full-year revenue guidance on strong product demand,positive,0.701,Business Standard
+2025-08-19,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd quarterly volume data in line with seasonal patterns,neutral,0.581,Business Standard
+2025-08-20,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd revenue growth decelerates sharply in key segments,negative,0.627,Business Standard
+2025-08-20,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd appoints new Chief Technology Officer,neutral,0.444,Mint
+2025-08-28,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd appoints new Chief Technology Officer,neutral,0.351,NDTV Profit
+2025-08-29,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd raises full-year revenue guidance on strong product demand,positive,0.772,Economic Times
+2025-08-29,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd issues profit warning citing rising input costs,negative,0.664,Mint
+2025-08-31,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd completes previously announced share buyback,neutral,0.398,Moneycontrol
+2025-09-03,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd revenue growth decelerates sharply in key segments,negative,0.762,Livemint
+2025-09-07,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd issues profit warning citing rising input costs,negative,0.951,Mint
+2025-09-22,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd posts strongest revenue growth in 5 years, margins expand",positive,0.639,Economic Times
+2025-10-18,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces major strategic partnership, stock hits 52-week high",positive,0.736,Mint
+2025-10-26,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd supply chain issues hit quarterly margins severely,negative,0.694,Economic Times
+2025-11-02,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd expands into Southeast Asian markets, revenue surges",positive,0.592,Livemint
+2025-11-09,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces 5,000 job cuts as growth slows",negative,0.77,NDTV Profit
+2025-11-12,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd faces regulatory investigation, shares under pressure",negative,0.883,Mint
+2025-11-14,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd wins landmark government contract worth billions,positive,0.736,Economic Times
+2025-11-14,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd posts strongest revenue growth in 5 years, margins expand",positive,0.646,Livemint
+2025-11-19,INFY.NS,Infosys Ltd,IN,IT Services,"Analysts upgrade Infosys Ltd to 'Strong Buy', raise price target 20%",positive,0.702,Livemint
+2025-11-19,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd hosts investor day, reiterates long-term targets",neutral,0.416,Business Standard
+2025-12-05,INFY.NS,Infosys Ltd,IN,IT Services,Market initiates coverage on Infosys Ltd with 'Hold' rating,neutral,0.454,Business Standard
+2025-12-09,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces ₹2,000 Cr share buyback programme",positive,0.703,Mint
+2025-12-20,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd maintains annual guidance unchanged,neutral,0.632,Business Standard
+2025-12-22,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd faces regulatory investigation, shares under pressure",negative,0.566,Livemint
+2025-12-24,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd wins landmark government contract worth billions,positive,0.699,Moneycontrol
+2026-01-04,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd dividend hike signals robust free cash flow generation,positive,0.733,Mint
+2026-01-07,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces 5,000 job cuts as growth slows",negative,0.672,NDTV Profit
+2026-01-16,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd completes previously announced share buyback,neutral,0.541,Business Standard
+2026-01-24,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd AI product launch receives overwhelmingly positive reviews,positive,0.61,Moneycontrol
+2026-01-24,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd wins landmark government contract worth billions,positive,0.943,Moneycontrol
+2026-02-11,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd raises full-year revenue guidance on strong product demand,positive,0.786,Moneycontrol
+2026-03-01,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd wins landmark government contract worth billions,positive,0.769,Livemint
+2026-03-09,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd completes previously announced share buyback,neutral,0.746,Business Standard
+2026-03-13,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd AI product launch receives overwhelmingly positive reviews,positive,0.602,Economic Times
+2026-03-16,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.946,Livemint
+2026-03-17,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd dividend hike signals robust free cash flow generation,positive,0.875,Livemint
+2026-04-07,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd announces major strategic partnership, stock hits 52-week high",positive,0.774,Economic Times
+2026-04-07,INFY.NS,Infosys Ltd,IN,IT Services,Infosys Ltd dividend hike signals robust free cash flow generation,positive,0.691,Moneycontrol
+2026-04-11,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd faces regulatory investigation, shares under pressure",negative,0.865,NDTV Profit
+2026-04-15,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.481,Moneycontrol
+2026-04-17,INFY.NS,Infosys Ltd,IN,IT Services,"Infosys Ltd posts strongest revenue growth in 5 years, margins expand",positive,0.762,Economic Times
+2024-12-05,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.731,MarketWatch
+2024-12-09,JPM,JPMorgan Chase,US,Finance,Analysts downgrade JPMorgan Chase citing stretched valuations,negative,0.94,Bloomberg
+2024-12-14,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase CFO resigns unexpectedly amid accounting review,negative,0.698,CNBC
+2025-01-04,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase reports record quarterly earnings, beats analyst estimates by 12%",positive,0.763,CNBC
+2025-01-06,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase quarterly volume data in line with seasonal patterns,neutral,0.35,MarketWatch
+2025-01-08,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase appoints new Chief Technology Officer,neutral,0.404,MarketWatch
+2025-01-11,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase expands into Southeast Asian markets, revenue surges",positive,0.73,MarketWatch
+2025-01-24,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase quarterly volume data in line with seasonal patterns,neutral,0.564,Seeking Alpha
+2025-02-04,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase faces regulatory investigation, shares under pressure",negative,0.617,Bloomberg
+2025-02-13,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase wins landmark government contract worth billions,positive,0.916,WSJ
+2025-02-20,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces 5,000 job cuts as growth slows",negative,0.923,CNBC
+2025-03-22,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.901,Seeking Alpha
+2025-03-23,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces ₹2,000 Cr share buyback programme",positive,0.642,Reuters
+2025-03-25,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase dividend hike signals robust free cash flow generation,positive,0.558,WSJ
+2025-03-27,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase loses major client contract to competitor,negative,0.764,CNBC
+2025-03-31,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase CFO resigns unexpectedly amid accounting review,negative,0.57,Bloomberg
+2025-04-04,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase issues profit warning citing rising input costs,negative,0.793,Reuters
+2025-04-04,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase completes previously announced share buyback,neutral,0.526,CNBC
+2025-04-13,JPM,JPMorgan Chase,US,Finance,Market initiates coverage on JPMorgan Chase with 'Hold' rating,neutral,0.632,Seeking Alpha
+2025-04-14,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase wins landmark government contract worth billions,positive,0.943,MarketWatch
+2025-04-15,JPM,JPMorgan Chase,US,Finance,"Analysts upgrade JPMorgan Chase to 'Strong Buy', raise price target 20%",positive,0.561,Seeking Alpha
+2025-04-15,JPM,JPMorgan Chase,US,Finance,Analysts downgrade JPMorgan Chase citing stretched valuations,negative,0.724,WSJ
+2025-04-19,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase misses Q3 earnings estimates, shares fall 8%",negative,0.691,Reuters
+2025-04-21,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase completes previously announced share buyback,neutral,0.736,Reuters
+2025-04-23,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces ₹2,000 Cr share buyback programme",positive,0.78,Reuters
+2025-05-05,JPM,JPMorgan Chase,US,Finance,Market initiates coverage on JPMorgan Chase with 'Hold' rating,neutral,0.532,MarketWatch
+2025-05-17,JPM,JPMorgan Chase,US,Finance,"Analysts upgrade JPMorgan Chase to 'Strong Buy', raise price target 20%",positive,0.617,Seeking Alpha
+2025-06-01,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase AI product launch receives overwhelmingly positive reviews,positive,0.659,Bloomberg
+2025-06-08,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces major strategic partnership, stock hits 52-week high",positive,0.549,Reuters
+2025-06-27,JPM,JPMorgan Chase,US,Finance,Market initiates coverage on JPMorgan Chase with 'Hold' rating,neutral,0.597,Seeking Alpha
+2025-06-28,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase issues profit warning citing rising input costs,negative,0.576,Seeking Alpha
+2025-07-03,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase stock trades near analyst consensus price target,neutral,0.829,MarketWatch
+2025-07-06,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase dividend hike signals robust free cash flow generation,positive,0.577,MarketWatch
+2025-07-10,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces ₹2,000 Cr share buyback programme",positive,0.841,CNBC
+2025-07-14,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase raises full-year revenue guidance on strong product demand,positive,0.744,Reuters
+2025-07-17,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase quarterly volume data in line with seasonal patterns,neutral,0.629,Seeking Alpha
+2025-07-21,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase CFO resigns unexpectedly amid accounting review,negative,0.687,Bloomberg
+2025-07-26,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase quarterly volume data in line with seasonal patterns,neutral,0.384,CNBC
+2025-08-03,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase CFO resigns unexpectedly amid accounting review,negative,0.638,Reuters
+2025-08-05,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase board approves routine capital expenditure plan,neutral,0.563,WSJ
+2025-08-05,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase expands into Southeast Asian markets, revenue surges",positive,0.365,Reuters
+2025-08-18,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase faces class action lawsuit over product defects,negative,0.644,Seeking Alpha
+2025-08-25,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces major strategic partnership, stock hits 52-week high",positive,0.621,CNBC
+2025-08-25,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase raises full-year revenue guidance on strong product demand,positive,0.71,MarketWatch
+2025-08-30,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase board approves routine capital expenditure plan,neutral,0.857,Reuters
+2025-09-03,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.826,Reuters
+2025-09-13,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase dividend hike signals robust free cash flow generation,positive,0.786,Reuters
+2025-09-20,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase expands into Southeast Asian markets, revenue surges",positive,0.62,Bloomberg
+2025-09-22,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces 5,000 job cuts as growth slows",negative,0.674,CNBC
+2025-09-27,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase issues profit warning citing rising input costs,negative,0.556,WSJ
+2025-10-16,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase revenue growth decelerates sharply in key segments,negative,0.748,CNBC
+2025-10-20,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces major strategic partnership, stock hits 52-week high",positive,0.689,WSJ
+2025-10-24,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase supply chain issues hit quarterly margins severely,negative,0.687,Seeking Alpha
+2025-10-25,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase revenue growth decelerates sharply in key segments,negative,0.903,WSJ
+2025-10-26,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase loses major client contract to competitor,negative,0.623,WSJ
+2025-11-02,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase expands into Southeast Asian markets, revenue surges",positive,0.55,Reuters
+2025-11-09,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase reports record quarterly earnings, beats analyst estimates by 12%",positive,0.526,CNBC
+2025-11-17,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase supply chain issues hit quarterly margins severely,negative,0.871,CNBC
+2025-11-20,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase dividend hike signals robust free cash flow generation,positive,0.667,Seeking Alpha
+2025-11-23,JPM,JPMorgan Chase,US,Finance,"Analysts upgrade JPMorgan Chase to 'Strong Buy', raise price target 20%",positive,0.662,WSJ
+2025-11-27,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase faces class action lawsuit over product defects,negative,0.764,Seeking Alpha
+2025-12-11,JPM,JPMorgan Chase,US,Finance,Market initiates coverage on JPMorgan Chase with 'Hold' rating,neutral,0.477,Reuters
+2025-12-13,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase CFO resigns unexpectedly amid accounting review,negative,0.702,Bloomberg
+2025-12-19,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase raises full-year revenue guidance on strong product demand,positive,0.748,WSJ
+2026-01-06,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase appoints new Chief Technology Officer,neutral,0.498,MarketWatch
+2026-01-09,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase appoints new Chief Technology Officer,neutral,0.662,CNBC
+2026-01-12,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase faces class action lawsuit over product defects,negative,0.776,CNBC
+2026-01-23,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase misses Q3 earnings estimates, shares fall 8%",negative,0.597,MarketWatch
+2026-01-24,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase faces regulatory investigation, shares under pressure",negative,0.593,Bloomberg
+2026-01-27,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase quarterly volume data in line with seasonal patterns,neutral,0.48,Seeking Alpha
+2026-01-30,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase reports record quarterly earnings, beats analyst estimates by 12%",positive,0.731,WSJ
+2026-01-31,JPM,JPMorgan Chase,US,Finance,Analysts downgrade JPMorgan Chase citing stretched valuations,negative,0.763,WSJ
+2026-02-02,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.602,CNBC
+2026-02-07,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase hosts investor day, reiterates long-term targets",neutral,0.554,Bloomberg
+2026-02-22,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase announces 5,000 job cuts as growth slows",negative,0.671,MarketWatch
+2026-03-05,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.821,Bloomberg
+2026-03-10,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.565,WSJ
+2026-03-12,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase misses Q3 earnings estimates, shares fall 8%",negative,0.633,WSJ
+2026-03-28,JPM,JPMorgan Chase,US,Finance,"JPMorgan Chase posts strongest revenue growth in 5 years, margins expand",positive,0.943,WSJ
+2026-04-04,JPM,JPMorgan Chase,US,Finance,JPMorgan Chase completes previously announced share buyback,neutral,0.506,Reuters
+2024-12-05,META,Meta Platforms,US,Social Media,Meta Platforms AI product launch receives overwhelmingly positive reviews,positive,0.67,Bloomberg
+2024-12-13,META,Meta Platforms,US,Social Media,Meta Platforms dividend hike signals robust free cash flow generation,positive,0.641,Bloomberg
+2024-12-14,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.464,CNBC
+2024-12-16,META,Meta Platforms,US,Social Media,Meta Platforms revenue growth decelerates sharply in key segments,negative,0.55,WSJ
+2024-12-17,META,Meta Platforms,US,Social Media,Meta Platforms loses major client contract to competitor,negative,0.662,WSJ
+2024-12-18,META,Meta Platforms,US,Social Media,"Meta Platforms posts strongest revenue growth in 5 years, margins expand",positive,0.593,CNBC
+2024-12-27,META,Meta Platforms,US,Social Media,Meta Platforms loses major client contract to competitor,negative,0.744,MarketWatch
+2024-12-29,META,Meta Platforms,US,Social Media,Meta Platforms loses major client contract to competitor,negative,0.786,Seeking Alpha
+2024-12-29,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.35,MarketWatch
+2025-01-15,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.555,CNBC
+2025-01-16,META,Meta Platforms,US,Social Media,Meta Platforms appoints new Chief Technology Officer,neutral,0.441,CNBC
+2025-01-26,META,Meta Platforms,US,Social Media,Meta Platforms raises full-year revenue guidance on strong product demand,positive,0.829,Seeking Alpha
+2025-02-11,META,Meta Platforms,US,Social Media,Meta Platforms issues profit warning citing rising input costs,negative,0.653,Reuters
+2025-02-13,META,Meta Platforms,US,Social Media,"Meta Platforms faces regulatory investigation, shares under pressure",negative,0.712,MarketWatch
+2025-02-15,META,Meta Platforms,US,Social Media,Meta Platforms revenue growth decelerates sharply in key segments,negative,0.763,Seeking Alpha
+2025-02-19,META,Meta Platforms,US,Social Media,"Meta Platforms posts strongest revenue growth in 5 years, margins expand",positive,0.654,Seeking Alpha
+2025-02-25,META,Meta Platforms,US,Social Media,"Meta Platforms announces ₹2,000 Cr share buyback programme",positive,0.812,MarketWatch
+2025-03-02,META,Meta Platforms,US,Social Media,Meta Platforms completes previously announced share buyback,neutral,0.565,Reuters
+2025-03-16,META,Meta Platforms,US,Social Media,Meta Platforms quarterly volume data in line with seasonal patterns,neutral,0.706,MarketWatch
+2025-04-07,META,Meta Platforms,US,Social Media,Meta Platforms faces class action lawsuit over product defects,negative,0.567,WSJ
+2025-04-11,META,Meta Platforms,US,Social Media,"Meta Platforms posts strongest revenue growth in 5 years, margins expand",positive,0.756,WSJ
+2025-04-17,META,Meta Platforms,US,Social Media,"Meta Platforms hosts investor day, reiterates long-term targets",neutral,0.531,CNBC
+2025-05-01,META,Meta Platforms,US,Social Media,Meta Platforms wins landmark government contract worth billions,positive,0.879,Reuters
+2025-05-02,META,Meta Platforms,US,Social Media,"Meta Platforms posts strongest revenue growth in 5 years, margins expand",positive,0.686,CNBC
+2025-05-07,META,Meta Platforms,US,Social Media,Meta Platforms revenue growth decelerates sharply in key segments,negative,0.58,WSJ
+2025-05-09,META,Meta Platforms,US,Social Media,Meta Platforms loses major client contract to competitor,negative,0.572,MarketWatch
+2025-05-12,META,Meta Platforms,US,Social Media,Meta Platforms wins landmark government contract worth billions,positive,0.789,Bloomberg
+2025-05-15,META,Meta Platforms,US,Social Media,"Meta Platforms announces ₹2,000 Cr share buyback programme",positive,0.854,Bloomberg
+2025-05-20,META,Meta Platforms,US,Social Media,Meta Platforms revenue growth decelerates sharply in key segments,negative,0.658,MarketWatch
+2025-06-03,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.613,Reuters
+2025-06-14,META,Meta Platforms,US,Social Media,"Meta Platforms posts strongest revenue growth in 5 years, margins expand",positive,0.733,Bloomberg
+2025-07-02,META,Meta Platforms,US,Social Media,Meta Platforms raises full-year revenue guidance on strong product demand,positive,0.758,WSJ
+2025-07-07,META,Meta Platforms,US,Social Media,"Meta Platforms announces 5,000 job cuts as growth slows",negative,0.644,Seeking Alpha
+2025-07-14,META,Meta Platforms,US,Social Media,"Meta Platforms announces ₹2,000 Cr share buyback programme",positive,0.773,Bloomberg
+2025-07-31,META,Meta Platforms,US,Social Media,"Meta Platforms reports record quarterly earnings, beats analyst estimates by 12%",positive,0.557,Seeking Alpha
+2025-08-03,META,Meta Platforms,US,Social Media,Meta Platforms issues profit warning citing rising input costs,negative,0.775,CNBC
+2025-08-07,META,Meta Platforms,US,Social Media,"Meta Platforms announces ₹2,000 Cr share buyback programme",positive,0.502,Reuters
+2025-08-13,META,Meta Platforms,US,Social Media,Meta Platforms appoints new Chief Technology Officer,neutral,0.717,Bloomberg
+2025-08-22,META,Meta Platforms,US,Social Media,"Meta Platforms hosts investor day, reiterates long-term targets",neutral,0.636,Seeking Alpha
+2025-08-23,META,Meta Platforms,US,Social Media,Meta Platforms CFO resigns unexpectedly amid accounting review,negative,0.783,Seeking Alpha
+2025-09-05,META,Meta Platforms,US,Social Media,"Meta Platforms misses Q3 earnings estimates, shares fall 8%",negative,0.541,MarketWatch
+2025-09-10,META,Meta Platforms,US,Social Media,Meta Platforms supply chain issues hit quarterly margins severely,negative,0.526,Seeking Alpha
+2025-09-19,META,Meta Platforms,US,Social Media,"Meta Platforms hosts investor day, reiterates long-term targets",neutral,0.543,Seeking Alpha
+2025-09-20,META,Meta Platforms,US,Social Media,Meta Platforms maintains annual guidance unchanged,neutral,0.72,MarketWatch
+2025-09-25,META,Meta Platforms,US,Social Media,Meta Platforms wins landmark government contract worth billions,positive,0.698,CNBC
+2025-09-25,META,Meta Platforms,US,Social Media,"Meta Platforms expands into Southeast Asian markets, revenue surges",positive,0.791,Bloomberg
+2025-09-28,META,Meta Platforms,US,Social Media,Meta Platforms loses major client contract to competitor,negative,0.745,Seeking Alpha
+2025-10-01,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.546,WSJ
+2025-10-01,META,Meta Platforms,US,Social Media,Meta Platforms quarterly volume data in line with seasonal patterns,neutral,0.475,MarketWatch
+2025-10-06,META,Meta Platforms,US,Social Media,"Meta Platforms announces major strategic partnership, stock hits 52-week high",positive,0.694,Seeking Alpha
+2025-10-12,META,Meta Platforms,US,Social Media,"Meta Platforms faces regulatory investigation, shares under pressure",negative,0.665,Reuters
+2025-10-13,META,Meta Platforms,US,Social Media,Meta Platforms supply chain issues hit quarterly margins severely,negative,0.655,MarketWatch
+2025-11-13,META,Meta Platforms,US,Social Media,"Meta Platforms reports record quarterly earnings, beats analyst estimates by 12%",positive,0.828,Reuters
+2025-11-16,META,Meta Platforms,US,Social Media,Meta Platforms AI product launch receives overwhelmingly positive reviews,positive,0.713,Seeking Alpha
+2025-11-21,META,Meta Platforms,US,Social Media,"Meta Platforms announces 5,000 job cuts as growth slows",negative,0.591,WSJ
+2025-11-25,META,Meta Platforms,US,Social Media,Meta Platforms announces annual general meeting date,neutral,0.694,CNBC
+2025-12-12,META,Meta Platforms,US,Social Media,Meta Platforms AI product launch receives overwhelmingly positive reviews,positive,0.846,CNBC
+2025-12-13,META,Meta Platforms,US,Social Media,Meta Platforms completes previously announced share buyback,neutral,0.478,Reuters
+2025-12-22,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.679,WSJ
+2025-12-29,META,Meta Platforms,US,Social Media,"Meta Platforms announces ₹2,000 Cr share buyback programme",positive,0.911,CNBC
+2025-12-31,META,Meta Platforms,US,Social Media,Meta Platforms Q3 results in line with Street expectations,neutral,0.781,MarketWatch
+2026-01-07,META,Meta Platforms,US,Social Media,Meta Platforms issues profit warning citing rising input costs,negative,0.522,Reuters
+2026-01-18,META,Meta Platforms,US,Social Media,Meta Platforms board approves routine capital expenditure plan,neutral,0.494,CNBC
+2026-01-20,META,Meta Platforms,US,Social Media,Meta Platforms supply chain issues hit quarterly margins severely,negative,0.99,Reuters
+2026-01-22,META,Meta Platforms,US,Social Media,Meta Platforms wins landmark government contract worth billions,positive,0.578,WSJ
+2026-01-24,META,Meta Platforms,US,Social Media,"Meta Platforms posts strongest revenue growth in 5 years, margins expand",positive,0.77,MarketWatch
+2026-01-25,META,Meta Platforms,US,Social Media,Meta Platforms wins landmark government contract worth billions,positive,0.587,Reuters
+2026-01-29,META,Meta Platforms,US,Social Media,Market initiates coverage on Meta Platforms with 'Hold' rating,neutral,0.778,CNBC
+2026-02-02,META,Meta Platforms,US,Social Media,Meta Platforms maintains annual guidance unchanged,neutral,0.35,WSJ
+2026-02-04,META,Meta Platforms,US,Social Media,"Meta Platforms hosts investor day, reiterates long-term targets",neutral,0.57,CNBC
+2026-02-05,META,Meta Platforms,US,Social Media,"Meta Platforms faces regulatory investigation, shares under pressure",negative,0.417,Bloomberg
+2026-02-07,META,Meta Platforms,US,Social Media,Meta Platforms stock trades near analyst consensus price target,neutral,0.39,Bloomberg
+2026-02-08,META,Meta Platforms,US,Social Media,Meta Platforms AI product launch receives overwhelmingly positive reviews,positive,0.566,WSJ
+2026-02-09,META,Meta Platforms,US,Social Media,"Meta Platforms hosts investor day, reiterates long-term targets",neutral,0.35,MarketWatch
+2026-02-20,META,Meta Platforms,US,Social Media,Meta Platforms CFO resigns unexpectedly amid accounting review,negative,0.605,Seeking Alpha
+2026-03-08,META,Meta Platforms,US,Social Media,Meta Platforms quarterly volume data in line with seasonal patterns,neutral,0.431,Seeking Alpha
+2026-03-23,META,Meta Platforms,US,Social Media,"Meta Platforms announces ₹2,000 Cr share buyback programme",positive,0.832,Seeking Alpha
+2026-03-30,META,Meta Platforms,US,Social Media,"Meta Platforms announces major strategic partnership, stock hits 52-week high",positive,0.693,MarketWatch
+2026-04-06,META,Meta Platforms,US,Social Media,Meta Platforms AI product launch receives overwhelmingly positive reviews,positive,0.6,CNBC
+2026-04-07,META,Meta Platforms,US,Social Media,Meta Platforms stock trades near analyst consensus price target,neutral,0.745,WSJ
+2024-12-05,MSFT,Microsoft Corp,US,Technology,Microsoft Corp dividend hike signals robust free cash flow generation,positive,0.896,MarketWatch
+2024-12-12,MSFT,Microsoft Corp,US,Technology,Microsoft Corp CFO resigns unexpectedly amid accounting review,negative,0.709,MarketWatch
+2024-12-13,MSFT,Microsoft Corp,US,Technology,Market initiates coverage on Microsoft Corp with 'Hold' rating,neutral,0.758,Bloomberg
+2024-12-13,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces major strategic partnership, stock hits 52-week high",positive,0.662,WSJ
+2024-12-14,MSFT,Microsoft Corp,US,Technology,Microsoft Corp board approves routine capital expenditure plan,neutral,0.438,Reuters
+2024-12-14,MSFT,Microsoft Corp,US,Technology,Microsoft Corp loses major client contract to competitor,negative,0.798,MarketWatch
+2024-12-16,MSFT,Microsoft Corp,US,Technology,"Analysts upgrade Microsoft Corp to 'Strong Buy', raise price target 20%",positive,0.816,MarketWatch
+2024-12-16,MSFT,Microsoft Corp,US,Technology,Microsoft Corp AI product launch receives overwhelmingly positive reviews,positive,0.436,MarketWatch
+2024-12-21,MSFT,Microsoft Corp,US,Technology,Microsoft Corp quarterly volume data in line with seasonal patterns,neutral,0.44,CNBC
+2024-12-27,MSFT,Microsoft Corp,US,Technology,Microsoft Corp CFO resigns unexpectedly amid accounting review,negative,0.822,MarketWatch
+2024-12-30,MSFT,Microsoft Corp,US,Technology,Microsoft Corp completes previously announced share buyback,neutral,0.526,Reuters
+2025-01-03,MSFT,Microsoft Corp,US,Technology,Microsoft Corp faces class action lawsuit over product defects,negative,0.649,WSJ
+2025-01-08,MSFT,Microsoft Corp,US,Technology,Microsoft Corp faces class action lawsuit over product defects,negative,0.708,Seeking Alpha
+2025-01-09,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces major strategic partnership, stock hits 52-week high",positive,0.769,Reuters
+2025-01-11,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp expands into Southeast Asian markets, revenue surges",positive,0.893,WSJ
+2025-01-31,MSFT,Microsoft Corp,US,Technology,Microsoft Corp issues profit warning citing rising input costs,negative,0.646,CNBC
+2025-02-03,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces ₹2,000 Cr share buyback programme",positive,0.639,WSJ
+2025-02-05,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces ₹2,000 Cr share buyback programme",positive,0.783,Seeking Alpha
+2025-02-15,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.54,Reuters
+2025-03-10,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.564,Bloomberg
+2025-03-21,MSFT,Microsoft Corp,US,Technology,Microsoft Corp quarterly volume data in line with seasonal patterns,neutral,0.48,Reuters
+2025-04-06,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces major strategic partnership, stock hits 52-week high",positive,0.537,MarketWatch
+2025-04-13,MSFT,Microsoft Corp,US,Technology,Microsoft Corp AI product launch receives overwhelmingly positive reviews,positive,0.905,WSJ
+2025-04-14,MSFT,Microsoft Corp,US,Technology,Microsoft Corp board approves routine capital expenditure plan,neutral,0.541,Bloomberg
+2025-04-16,MSFT,Microsoft Corp,US,Technology,Microsoft Corp dividend hike signals robust free cash flow generation,positive,0.74,Seeking Alpha
+2025-04-19,MSFT,Microsoft Corp,US,Technology,Microsoft Corp maintains annual guidance unchanged,neutral,0.571,WSJ
+2025-04-23,MSFT,Microsoft Corp,US,Technology,Microsoft Corp raises full-year revenue guidance on strong product demand,positive,0.565,Seeking Alpha
+2025-04-28,MSFT,Microsoft Corp,US,Technology,Microsoft Corp supply chain issues hit quarterly margins severely,negative,0.672,Reuters
+2025-05-03,MSFT,Microsoft Corp,US,Technology,Microsoft Corp appoints new Chief Technology Officer,neutral,0.458,Reuters
+2025-05-07,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces 5,000 job cuts as growth slows",negative,0.668,CNBC
+2025-05-08,MSFT,Microsoft Corp,US,Technology,"Analysts upgrade Microsoft Corp to 'Strong Buy', raise price target 20%",positive,0.506,CNBC
+2025-05-14,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.733,Bloomberg
+2025-05-17,MSFT,Microsoft Corp,US,Technology,Microsoft Corp supply chain issues hit quarterly margins severely,negative,0.524,Reuters
+2025-05-18,MSFT,Microsoft Corp,US,Technology,Microsoft Corp supply chain issues hit quarterly margins severely,negative,0.734,Seeking Alpha
+2025-06-04,MSFT,Microsoft Corp,US,Technology,Microsoft Corp board approves routine capital expenditure plan,neutral,0.573,Reuters
+2025-06-10,MSFT,Microsoft Corp,US,Technology,Microsoft Corp AI product launch receives overwhelmingly positive reviews,positive,0.622,MarketWatch
+2025-06-21,MSFT,Microsoft Corp,US,Technology,Microsoft Corp Q3 results in line with Street expectations,neutral,0.364,CNBC
+2025-06-27,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp posts strongest revenue growth in 5 years, margins expand",positive,0.852,CNBC
+2025-06-29,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp hosts investor day, reiterates long-term targets",neutral,0.665,Seeking Alpha
+2025-07-01,MSFT,Microsoft Corp,US,Technology,Microsoft Corp quarterly volume data in line with seasonal patterns,neutral,0.589,CNBC
+2025-07-02,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces major strategic partnership, stock hits 52-week high",positive,0.814,Bloomberg
+2025-07-11,MSFT,Microsoft Corp,US,Technology,Microsoft Corp dividend hike signals robust free cash flow generation,positive,0.662,Seeking Alpha
+2025-07-13,MSFT,Microsoft Corp,US,Technology,Microsoft Corp dividend hike signals robust free cash flow generation,positive,0.761,WSJ
+2025-07-23,MSFT,Microsoft Corp,US,Technology,Microsoft Corp revenue growth decelerates sharply in key segments,negative,0.577,CNBC
+2025-07-27,MSFT,Microsoft Corp,US,Technology,Microsoft Corp maintains annual guidance unchanged,neutral,0.516,Seeking Alpha
+2025-07-30,MSFT,Microsoft Corp,US,Technology,Microsoft Corp issues profit warning citing rising input costs,negative,0.722,WSJ
+2025-08-03,MSFT,Microsoft Corp,US,Technology,"Analysts upgrade Microsoft Corp to 'Strong Buy', raise price target 20%",positive,0.758,WSJ
+2025-08-08,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp posts strongest revenue growth in 5 years, margins expand",positive,0.863,CNBC
+2025-08-15,MSFT,Microsoft Corp,US,Technology,Market initiates coverage on Microsoft Corp with 'Hold' rating,neutral,0.559,Reuters
+2025-08-28,MSFT,Microsoft Corp,US,Technology,Microsoft Corp CFO resigns unexpectedly amid accounting review,negative,0.694,MarketWatch
+2025-08-29,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces ₹2,000 Cr share buyback programme",positive,0.561,Bloomberg
+2025-08-30,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.631,CNBC
+2025-09-02,MSFT,Microsoft Corp,US,Technology,Microsoft Corp CFO resigns unexpectedly amid accounting review,negative,0.711,Seeking Alpha
+2025-09-11,MSFT,Microsoft Corp,US,Technology,Microsoft Corp quarterly volume data in line with seasonal patterns,neutral,0.601,MarketWatch
+2025-09-16,MSFT,Microsoft Corp,US,Technology,Microsoft Corp issues profit warning citing rising input costs,negative,0.816,Reuters
+2025-09-16,MSFT,Microsoft Corp,US,Technology,Microsoft Corp Q3 results in line with Street expectations,neutral,0.554,WSJ
+2025-09-26,MSFT,Microsoft Corp,US,Technology,Microsoft Corp maintains annual guidance unchanged,neutral,0.516,Seeking Alpha
+2025-10-02,MSFT,Microsoft Corp,US,Technology,"Analysts upgrade Microsoft Corp to 'Strong Buy', raise price target 20%",positive,0.695,Reuters
+2025-10-08,MSFT,Microsoft Corp,US,Technology,Microsoft Corp Q3 results in line with Street expectations,neutral,0.409,WSJ
+2025-10-13,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp faces regulatory investigation, shares under pressure",negative,0.726,Reuters
+2025-10-19,MSFT,Microsoft Corp,US,Technology,Microsoft Corp CFO resigns unexpectedly amid accounting review,negative,0.877,MarketWatch
+2025-10-30,MSFT,Microsoft Corp,US,Technology,Microsoft Corp raises full-year revenue guidance on strong product demand,positive,0.547,WSJ
+2025-11-01,MSFT,Microsoft Corp,US,Technology,Microsoft Corp issues profit warning citing rising input costs,negative,0.647,Reuters
+2025-11-14,MSFT,Microsoft Corp,US,Technology,"Analysts upgrade Microsoft Corp to 'Strong Buy', raise price target 20%",positive,0.767,MarketWatch
+2025-12-16,MSFT,Microsoft Corp,US,Technology,Microsoft Corp wins landmark government contract worth billions,positive,0.687,Seeking Alpha
+2025-12-28,MSFT,Microsoft Corp,US,Technology,Microsoft Corp revenue growth decelerates sharply in key segments,negative,0.35,MarketWatch
+2026-01-06,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.767,CNBC
+2026-01-10,MSFT,Microsoft Corp,US,Technology,Microsoft Corp CFO resigns unexpectedly amid accounting review,negative,0.561,Seeking Alpha
+2026-01-14,MSFT,Microsoft Corp,US,Technology,Microsoft Corp completes previously announced share buyback,neutral,0.424,MarketWatch
+2026-01-18,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp faces regulatory investigation, shares under pressure",negative,0.796,CNBC
+2026-01-30,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces major strategic partnership, stock hits 52-week high",positive,0.615,WSJ
+2026-02-09,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp faces regulatory investigation, shares under pressure",negative,0.765,Bloomberg
+2026-02-26,MSFT,Microsoft Corp,US,Technology,Microsoft Corp announces annual general meeting date,neutral,0.35,WSJ
+2026-03-04,MSFT,Microsoft Corp,US,Technology,Microsoft Corp AI product launch receives overwhelmingly positive reviews,positive,0.577,CNBC
+2026-03-06,MSFT,Microsoft Corp,US,Technology,Microsoft Corp wins landmark government contract worth billions,positive,0.627,Seeking Alpha
+2026-03-11,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces 5,000 job cuts as growth slows",negative,0.911,Seeking Alpha
+2026-03-12,MSFT,Microsoft Corp,US,Technology,Microsoft Corp announces annual general meeting date,neutral,0.552,CNBC
+2026-04-02,MSFT,Microsoft Corp,US,Technology,"Microsoft Corp announces 5,000 job cuts as growth slows",negative,0.717,Reuters
+2026-04-09,MSFT,Microsoft Corp,US,Technology,Microsoft Corp dividend hike signals robust free cash flow generation,positive,0.829,Bloomberg
+2026-04-11,MSFT,Microsoft Corp,US,Technology,Microsoft Corp faces class action lawsuit over product defects,negative,0.863,Seeking Alpha
+2024-12-17,NVDA,NVIDIA Corp,US,Semiconductors,Analysts downgrade NVIDIA Corp citing stretched valuations,negative,0.643,Bloomberg
+2024-12-25,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp appoints new Chief Technology Officer,neutral,0.543,CNBC
+2024-12-25,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp raises full-year revenue guidance on strong product demand,positive,0.638,Seeking Alpha
+2025-01-07,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces ₹2,000 Cr share buyback programme",positive,0.783,WSJ
+2025-01-19,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp quarterly volume data in line with seasonal patterns,neutral,0.377,WSJ
+2025-01-19,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp appoints new Chief Technology Officer,neutral,0.515,Seeking Alpha
+2025-01-25,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp wins landmark government contract worth billions,positive,0.673,CNBC
+2025-01-27,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces major strategic partnership, stock hits 52-week high",positive,0.633,MarketWatch
+2025-02-05,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp misses Q3 earnings estimates, shares fall 8%",negative,0.589,Reuters
+2025-02-07,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp stock trades near analyst consensus price target,neutral,0.698,MarketWatch
+2025-02-14,NVDA,NVIDIA Corp,US,Semiconductors,"Analysts upgrade NVIDIA Corp to 'Strong Buy', raise price target 20%",positive,0.505,WSJ
+2025-03-09,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp raises full-year revenue guidance on strong product demand,positive,0.753,Reuters
+2025-03-14,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces ₹2,000 Cr share buyback programme",positive,0.731,WSJ
+2025-03-14,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces major strategic partnership, stock hits 52-week high",positive,0.539,Seeking Alpha
+2025-03-24,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp expands into Southeast Asian markets, revenue surges",positive,0.709,WSJ
+2025-04-05,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp revenue growth decelerates sharply in key segments,negative,0.99,Seeking Alpha
+2025-04-10,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp dividend hike signals robust free cash flow generation,positive,0.696,Reuters
+2025-05-04,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp stock trades near analyst consensus price target,neutral,0.669,MarketWatch
+2025-05-04,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp board approves routine capital expenditure plan,neutral,0.407,Seeking Alpha
+2025-05-12,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.63,Bloomberg
+2025-05-13,NVDA,NVIDIA Corp,US,Semiconductors,"Analysts upgrade NVIDIA Corp to 'Strong Buy', raise price target 20%",positive,0.931,Bloomberg
+2025-05-14,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp revenue growth decelerates sharply in key segments,negative,0.654,Bloomberg
+2025-05-25,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp hosts investor day, reiterates long-term targets",neutral,0.585,WSJ
+2025-05-25,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp wins landmark government contract worth billions,positive,0.736,MarketWatch
+2025-06-05,NVDA,NVIDIA Corp,US,Semiconductors,Market initiates coverage on NVIDIA Corp with 'Hold' rating,neutral,0.567,Bloomberg
+2025-06-14,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp quarterly volume data in line with seasonal patterns,neutral,0.576,WSJ
+2025-06-24,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces ₹2,000 Cr share buyback programme",positive,0.626,Seeking Alpha
+2025-06-27,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp issues profit warning citing rising input costs,negative,0.904,Bloomberg
+2025-07-05,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp loses major client contract to competitor,negative,0.559,Reuters
+2025-07-08,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp issues profit warning citing rising input costs,negative,0.685,Bloomberg
+2025-07-09,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp dividend hike signals robust free cash flow generation,positive,0.908,WSJ
+2025-07-10,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp misses Q3 earnings estimates, shares fall 8%",negative,0.772,Bloomberg
+2025-07-14,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp hosts investor day, reiterates long-term targets",neutral,0.596,Reuters
+2025-07-18,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp misses Q3 earnings estimates, shares fall 8%",negative,0.748,Seeking Alpha
+2025-07-19,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp posts strongest revenue growth in 5 years, margins expand",positive,0.707,Reuters
+2025-07-23,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.914,Seeking Alpha
+2025-07-29,NVDA,NVIDIA Corp,US,Semiconductors,"Analysts upgrade NVIDIA Corp to 'Strong Buy', raise price target 20%",positive,0.761,Reuters
+2025-08-09,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp CFO resigns unexpectedly amid accounting review,negative,0.891,Seeking Alpha
+2025-08-18,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp revenue growth decelerates sharply in key segments,negative,0.764,Bloomberg
+2025-08-19,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp loses major client contract to competitor,negative,0.823,WSJ
+2025-08-28,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces 5,000 job cuts as growth slows",negative,0.719,Bloomberg
+2025-09-01,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp expands into Southeast Asian markets, revenue surges",positive,0.641,Bloomberg
+2025-09-07,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp expands into Southeast Asian markets, revenue surges",positive,0.417,Seeking Alpha
+2025-09-16,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp raises full-year revenue guidance on strong product demand,positive,0.731,Bloomberg
+2025-09-23,NVDA,NVIDIA Corp,US,Semiconductors,Analysts downgrade NVIDIA Corp citing stretched valuations,negative,0.494,MarketWatch
+2025-09-24,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp faces class action lawsuit over product defects,negative,0.768,WSJ
+2025-10-02,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp CFO resigns unexpectedly amid accounting review,negative,0.614,Bloomberg
+2025-10-04,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp maintains annual guidance unchanged,neutral,0.6,Reuters
+2025-10-05,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp wins landmark government contract worth billions,positive,0.823,Bloomberg
+2025-10-05,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp quarterly volume data in line with seasonal patterns,neutral,0.653,WSJ
+2025-10-06,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp wins landmark government contract worth billions,positive,0.881,Reuters
+2025-10-07,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp Q3 results in line with Street expectations,neutral,0.515,MarketWatch
+2025-10-10,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp loses major client contract to competitor,negative,0.468,Seeking Alpha
+2025-11-02,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp misses Q3 earnings estimates, shares fall 8%",negative,0.819,Seeking Alpha
+2025-11-05,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp raises full-year revenue guidance on strong product demand,positive,0.971,WSJ
+2025-11-09,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp AI product launch receives overwhelmingly positive reviews,positive,0.815,Seeking Alpha
+2025-11-21,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp faces regulatory investigation, shares under pressure",negative,0.413,Seeking Alpha
+2025-11-24,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp misses Q3 earnings estimates, shares fall 8%",negative,0.667,Bloomberg
+2025-11-28,NVDA,NVIDIA Corp,US,Semiconductors,Market initiates coverage on NVIDIA Corp with 'Hold' rating,neutral,0.369,Bloomberg
+2025-12-11,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp faces regulatory investigation, shares under pressure",negative,0.679,Seeking Alpha
+2025-12-11,NVDA,NVIDIA Corp,US,Semiconductors,Market initiates coverage on NVIDIA Corp with 'Hold' rating,neutral,0.544,Seeking Alpha
+2025-12-12,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces major strategic partnership, stock hits 52-week high",positive,0.718,Reuters
+2025-12-13,NVDA,NVIDIA Corp,US,Semiconductors,Analysts downgrade NVIDIA Corp citing stretched valuations,negative,0.939,MarketWatch
+2025-12-15,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp Q3 results in line with Street expectations,neutral,0.439,Seeking Alpha
+2025-12-21,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp announces major strategic partnership, stock hits 52-week high",positive,0.566,WSJ
+2025-12-23,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp maintains annual guidance unchanged,neutral,0.449,Bloomberg
+2025-12-26,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp faces regulatory investigation, shares under pressure",negative,0.726,CNBC
+2025-12-31,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp hosts investor day, reiterates long-term targets",neutral,0.529,CNBC
+2026-01-14,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp faces regulatory investigation, shares under pressure",negative,0.735,Bloomberg
+2026-01-16,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp wins landmark government contract worth billions,positive,0.697,MarketWatch
+2026-01-18,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp reports record quarterly earnings, beats analyst estimates by 12%",positive,0.99,Bloomberg
+2026-01-25,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp raises full-year revenue guidance on strong product demand,positive,0.611,Seeking Alpha
+2026-01-27,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp raises full-year revenue guidance on strong product demand,positive,0.718,Seeking Alpha
+2026-01-30,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp supply chain issues hit quarterly margins severely,negative,0.687,CNBC
+2026-01-30,NVDA,NVIDIA Corp,US,Semiconductors,"NVIDIA Corp hosts investor day, reiterates long-term targets",neutral,0.535,Reuters
+2026-02-07,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp loses major client contract to competitor,negative,0.45,WSJ
+2026-02-13,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp maintains annual guidance unchanged,neutral,0.35,Bloomberg
+2026-03-27,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp maintains annual guidance unchanged,neutral,0.358,WSJ
+2026-04-01,NVDA,NVIDIA Corp,US,Semiconductors,NVIDIA Corp stock trades near analyst consensus price target,neutral,0.55,Seeking Alpha
+2026-04-14,NVDA,NVIDIA Corp,US,Semiconductors,"Analysts upgrade NVIDIA Corp to 'Strong Buy', raise price target 20%",positive,0.607,WSJ
+2024-12-06,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries dividend hike signals robust free cash flow generation,positive,0.614,Livemint
+2024-12-08,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries wins landmark government contract worth billions,positive,0.793,Moneycontrol
+2024-12-11,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.546,Economic Times
+2024-12-19,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries AI product launch receives overwhelmingly positive reviews,positive,0.719,Mint
+2024-12-19,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries revenue growth decelerates sharply in key segments,negative,0.507,Economic Times
+2024-12-27,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries appoints new Chief Technology Officer,neutral,0.583,Business Standard
+2025-01-14,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries revenue growth decelerates sharply in key segments,negative,0.582,Moneycontrol
+2025-01-14,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Analysts upgrade Reliance Industries to 'Strong Buy', raise price target 20%",positive,0.547,Livemint
+2025-01-14,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries issues profit warning citing rising input costs,negative,0.656,Business Standard
+2025-01-16,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries supply chain issues hit quarterly margins severely,negative,0.63,Moneycontrol
+2025-01-31,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries misses Q3 earnings estimates, shares fall 8%",negative,0.647,Livemint
+2025-02-07,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.774,Economic Times
+2025-02-08,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.728,Moneycontrol
+2025-02-11,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries misses Q3 earnings estimates, shares fall 8%",negative,0.77,Mint
+2025-02-21,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries loses major client contract to competitor,negative,0.624,Business Standard
+2025-02-26,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Analysts downgrade Reliance Industries citing stretched valuations,negative,0.777,Livemint
+2025-02-27,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries reports record quarterly earnings, beats analyst estimates by 12%",positive,0.817,Economic Times
+2025-03-08,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries faces regulatory investigation, shares under pressure",negative,0.646,Business Standard
+2025-03-11,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.87,Economic Times
+2025-03-28,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries hosts investor day, reiterates long-term targets",neutral,0.641,Moneycontrol
+2025-04-11,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries appoints new Chief Technology Officer,neutral,0.558,Moneycontrol
+2025-04-12,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces major strategic partnership, stock hits 52-week high",positive,0.684,Economic Times
+2025-04-16,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries announces annual general meeting date,neutral,0.584,Livemint
+2025-04-27,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries loses major client contract to competitor,negative,0.667,Business Standard
+2025-05-01,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries raises full-year revenue guidance on strong product demand,positive,0.521,Mint
+2025-05-03,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces ₹2,000 Cr share buyback programme",positive,0.815,Moneycontrol
+2025-05-05,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries quarterly volume data in line with seasonal patterns,neutral,0.42,Moneycontrol
+2025-05-15,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries appoints new Chief Technology Officer,neutral,0.604,Livemint
+2025-05-15,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries board approves routine capital expenditure plan,neutral,0.586,Economic Times
+2025-05-17,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.644,Livemint
+2025-05-18,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries appoints new Chief Technology Officer,neutral,0.496,Livemint
+2025-05-21,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries quarterly volume data in line with seasonal patterns,neutral,0.425,Livemint
+2025-05-23,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries loses major client contract to competitor,negative,0.789,Business Standard
+2025-06-08,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.703,Livemint
+2025-07-03,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries maintains annual guidance unchanged,neutral,0.679,NDTV Profit
+2025-07-20,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Analysts downgrade Reliance Industries citing stretched valuations,negative,0.603,Livemint
+2025-07-23,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries completes previously announced share buyback,neutral,0.549,Economic Times
+2025-07-26,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries reports record quarterly earnings, beats analyst estimates by 12%",positive,0.703,Economic Times
+2025-07-28,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries supply chain issues hit quarterly margins severely,negative,0.707,Business Standard
+2025-08-09,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries completes previously announced share buyback,neutral,0.515,Business Standard
+2025-08-14,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries wins landmark government contract worth billions,positive,0.469,Mint
+2025-09-20,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries reports record quarterly earnings, beats analyst estimates by 12%",positive,0.737,NDTV Profit
+2025-09-24,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Market initiates coverage on Reliance Industries with 'Hold' rating,neutral,0.537,Moneycontrol
+2025-09-25,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries announces annual general meeting date,neutral,0.582,Mint
+2025-09-26,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries issues profit warning citing rising input costs,negative,0.578,Moneycontrol
+2025-09-30,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries completes previously announced share buyback,neutral,0.471,Mint
+2025-10-02,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries hosts investor day, reiterates long-term targets",neutral,0.462,Moneycontrol
+2025-10-06,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries posts strongest revenue growth in 5 years, margins expand",positive,0.518,Economic Times
+2025-10-10,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries raises full-year revenue guidance on strong product demand,positive,0.597,Business Standard
+2025-10-15,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces major strategic partnership, stock hits 52-week high",positive,0.794,Mint
+2025-10-19,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries AI product launch receives overwhelmingly positive reviews,positive,0.606,Moneycontrol
+2025-10-22,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Market initiates coverage on Reliance Industries with 'Hold' rating,neutral,0.432,Livemint
+2025-10-24,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries stock trades near analyst consensus price target,neutral,0.694,Business Standard
+2025-10-30,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries revenue growth decelerates sharply in key segments,negative,0.779,NDTV Profit
+2025-11-03,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces 5,000 job cuts as growth slows",negative,0.709,Livemint
+2025-11-11,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries raises full-year revenue guidance on strong product demand,positive,0.917,Mint
+2025-11-15,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces major strategic partnership, stock hits 52-week high",positive,0.894,Mint
+2025-11-21,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Analysts upgrade Reliance Industries to 'Strong Buy', raise price target 20%",positive,0.721,Moneycontrol
+2025-11-26,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries board approves routine capital expenditure plan,neutral,0.619,Economic Times
+2025-11-30,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces major strategic partnership, stock hits 52-week high",positive,0.811,Livemint
+2025-11-30,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries issues profit warning citing rising input costs,negative,0.711,Livemint
+2025-12-09,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries quarterly volume data in line with seasonal patterns,neutral,0.371,Moneycontrol
+2025-12-25,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries AI product launch receives overwhelmingly positive reviews,positive,0.984,NDTV Profit
+2025-12-27,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries hosts investor day, reiterates long-term targets",neutral,0.549,Business Standard
+2025-12-28,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces ₹2,000 Cr share buyback programme",positive,0.726,Livemint
+2025-12-30,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Market initiates coverage on Reliance Industries with 'Hold' rating,neutral,0.499,Livemint
+2026-01-03,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries loses major client contract to competitor,negative,0.953,Moneycontrol
+2026-01-10,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries wins landmark government contract worth billions,positive,0.615,Livemint
+2026-02-07,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries issues profit warning citing rising input costs,negative,0.55,Mint
+2026-02-09,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries board approves routine capital expenditure plan,neutral,0.432,Livemint
+2026-03-02,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries faces class action lawsuit over product defects,negative,0.771,Moneycontrol
+2026-03-05,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces major strategic partnership, stock hits 52-week high",positive,0.725,Economic Times
+2026-03-12,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries raises full-year revenue guidance on strong product demand,positive,0.61,NDTV Profit
+2026-03-17,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries Q3 results in line with Street expectations,neutral,0.637,Business Standard
+2026-03-24,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries appoints new Chief Technology Officer,neutral,0.597,Livemint
+2026-03-26,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries announces major strategic partnership, stock hits 52-week high",positive,0.775,Economic Times
+2026-03-30,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries supply chain issues hit quarterly margins severely,negative,0.633,Business Standard
+2026-04-01,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries completes previously announced share buyback,neutral,0.582,Economic Times
+2026-04-09,RELIANCE.NS,Reliance Industries,IN,Conglomerate,Reliance Industries wins landmark government contract worth billions,positive,0.818,Economic Times
+2026-04-13,RELIANCE.NS,Reliance Industries,IN,Conglomerate,"Reliance Industries expands into Southeast Asian markets, revenue surges",positive,0.564,NDTV Profit
+2024-12-06,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy raises full-year revenue guidance on strong product demand,positive,0.664,Livemint
+2024-12-19,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy revenue growth decelerates sharply in key segments,negative,0.537,Livemint
+2024-12-24,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy expands into Southeast Asian markets, revenue surges",positive,0.764,Business Standard
+2024-12-27,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy reports record quarterly earnings, beats analyst estimates by 12%",positive,0.639,Economic Times
+2025-01-01,TCS.NS,Tata Consultancy,IN,IT Services,"Analysts upgrade Tata Consultancy to 'Strong Buy', raise price target 20%",positive,0.721,Economic Times
+2025-01-18,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy appoints new Chief Technology Officer,neutral,0.664,Mint
+2025-01-28,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy misses Q3 earnings estimates, shares fall 8%",negative,0.678,NDTV Profit
+2025-02-14,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy misses Q3 earnings estimates, shares fall 8%",negative,0.612,Economic Times
+2025-02-19,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy CFO resigns unexpectedly amid accounting review,negative,0.595,Business Standard
+2025-02-22,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy Q3 results in line with Street expectations,neutral,0.599,Business Standard
+2025-03-09,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.637,Livemint
+2025-03-15,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.453,Moneycontrol
+2025-03-19,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces ₹2,000 Cr share buyback programme",positive,0.728,Livemint
+2025-03-22,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy AI product launch receives overwhelmingly positive reviews,positive,0.703,Economic Times
+2025-03-27,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces ₹2,000 Cr share buyback programme",positive,0.99,Livemint
+2025-03-30,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces ₹2,000 Cr share buyback programme",positive,0.841,Economic Times
+2025-03-30,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.497,Mint
+2025-04-08,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces major strategic partnership, stock hits 52-week high",positive,0.89,Mint
+2025-04-09,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.44,Livemint
+2025-04-13,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy completes previously announced share buyback,neutral,0.351,Livemint
+2025-04-16,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy expands into Southeast Asian markets, revenue surges",positive,0.641,Economic Times
+2025-04-27,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy completes previously announced share buyback,neutral,0.702,Mint
+2025-05-03,TCS.NS,Tata Consultancy,IN,IT Services,Analysts downgrade Tata Consultancy citing stretched valuations,negative,0.695,NDTV Profit
+2025-05-07,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy posts strongest revenue growth in 5 years, margins expand",positive,0.504,Economic Times
+2025-05-12,TCS.NS,Tata Consultancy,IN,IT Services,"Analysts upgrade Tata Consultancy to 'Strong Buy', raise price target 20%",positive,0.619,Economic Times
+2025-05-12,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy stock trades near analyst consensus price target,neutral,0.503,NDTV Profit
+2025-05-30,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy stock trades near analyst consensus price target,neutral,0.511,Business Standard
+2025-05-30,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces 5,000 job cuts as growth slows",negative,0.857,NDTV Profit
+2025-06-10,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy revenue growth decelerates sharply in key segments,negative,0.89,Business Standard
+2025-06-11,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy supply chain issues hit quarterly margins severely,negative,0.644,Business Standard
+2025-06-23,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy quarterly volume data in line with seasonal patterns,neutral,0.676,Business Standard
+2025-07-08,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.72,NDTV Profit
+2025-07-16,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy board approves routine capital expenditure plan,neutral,0.356,NDTV Profit
+2025-07-17,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy raises full-year revenue guidance on strong product demand,positive,0.88,Moneycontrol
+2025-07-17,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy misses Q3 earnings estimates, shares fall 8%",negative,0.841,Economic Times
+2025-07-18,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy revenue growth decelerates sharply in key segments,negative,0.69,Business Standard
+2025-07-24,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy reports record quarterly earnings, beats analyst estimates by 12%",positive,0.829,Economic Times
+2025-08-01,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy Q3 results in line with Street expectations,neutral,0.478,Business Standard
+2025-08-02,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy CFO resigns unexpectedly amid accounting review,negative,0.358,Business Standard
+2025-08-03,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy quarterly volume data in line with seasonal patterns,neutral,0.374,Economic Times
+2025-08-08,TCS.NS,Tata Consultancy,IN,IT Services,Market initiates coverage on Tata Consultancy with 'Hold' rating,neutral,0.423,Livemint
+2025-08-15,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy reports record quarterly earnings, beats analyst estimates by 12%",positive,0.686,Moneycontrol
+2025-08-23,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy completes previously announced share buyback,neutral,0.658,Livemint
+2025-08-24,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy CFO resigns unexpectedly amid accounting review,negative,0.721,Mint
+2025-08-28,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy completes previously announced share buyback,neutral,0.536,Livemint
+2025-08-29,TCS.NS,Tata Consultancy,IN,IT Services,"Analysts upgrade Tata Consultancy to 'Strong Buy', raise price target 20%",positive,0.466,Economic Times
+2025-08-31,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.611,Livemint
+2025-09-06,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy supply chain issues hit quarterly margins severely,negative,0.788,Moneycontrol
+2025-09-08,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces ₹2,000 Cr share buyback programme",positive,0.857,Mint
+2025-09-16,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy supply chain issues hit quarterly margins severely,negative,0.661,NDTV Profit
+2025-09-17,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy CFO resigns unexpectedly amid accounting review,negative,0.699,Economic Times
+2025-09-22,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.424,Mint
+2025-10-04,TCS.NS,Tata Consultancy,IN,IT Services,"Analysts upgrade Tata Consultancy to 'Strong Buy', raise price target 20%",positive,0.693,NDTV Profit
+2025-10-26,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy loses major client contract to competitor,negative,0.484,NDTV Profit
+2025-10-26,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy posts strongest revenue growth in 5 years, margins expand",positive,0.569,NDTV Profit
+2025-10-28,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy reports record quarterly earnings, beats analyst estimates by 12%",positive,0.776,Livemint
+2025-10-28,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy maintains annual guidance unchanged,neutral,0.513,Business Standard
+2025-11-06,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy Q3 results in line with Street expectations,neutral,0.737,Livemint
+2025-11-24,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy raises full-year revenue guidance on strong product demand,positive,0.808,Livemint
+2025-11-30,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy expands into Southeast Asian markets, revenue surges",positive,0.731,Business Standard
+2025-12-18,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy reports record quarterly earnings, beats analyst estimates by 12%",positive,0.949,Moneycontrol
+2025-12-27,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy hosts investor day, reiterates long-term targets",neutral,0.474,Moneycontrol
+2026-01-02,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy appoints new Chief Technology Officer,neutral,0.539,Moneycontrol
+2026-01-09,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy supply chain issues hit quarterly margins severely,negative,0.619,NDTV Profit
+2026-01-13,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces ₹2,000 Cr share buyback programme",positive,0.631,Moneycontrol
+2026-01-17,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy AI product launch receives overwhelmingly positive reviews,positive,0.678,NDTV Profit
+2026-01-18,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy announces ₹2,000 Cr share buyback programme",positive,0.654,Livemint
+2026-01-20,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy faces class action lawsuit over product defects,negative,0.589,Business Standard
+2026-01-20,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy faces regulatory investigation, shares under pressure",negative,0.908,Moneycontrol
+2026-01-21,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy revenue growth decelerates sharply in key segments,negative,0.655,Economic Times
+2026-01-28,TCS.NS,Tata Consultancy,IN,IT Services,"Tata Consultancy reports record quarterly earnings, beats analyst estimates by 12%",positive,0.565,Moneycontrol
+2026-02-01,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy revenue growth decelerates sharply in key segments,negative,0.839,NDTV Profit
+2026-02-15,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy supply chain issues hit quarterly margins severely,negative,0.712,Business Standard
+2026-02-23,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy wins landmark government contract worth billions,positive,0.832,Economic Times
+2026-03-01,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy revenue growth decelerates sharply in key segments,negative,0.699,Economic Times
+2026-03-02,TCS.NS,Tata Consultancy,IN,IT Services,Market initiates coverage on Tata Consultancy with 'Hold' rating,neutral,0.407,Moneycontrol
+2026-03-03,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy raises full-year revenue guidance on strong product demand,positive,0.477,Moneycontrol
+2026-03-15,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy announces annual general meeting date,neutral,0.654,NDTV Profit
+2026-04-12,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy board approves routine capital expenditure plan,neutral,0.674,Livemint
+2026-04-13,TCS.NS,Tata Consultancy,IN,IT Services,Tata Consultancy appoints new Chief Technology Officer,neutral,0.588,Mint
+2024-12-16,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.617,CNBC
+2024-12-17,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc CFO resigns unexpectedly amid accounting review,negative,0.6,Seeking Alpha
+2024-12-18,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc stock trades near analyst consensus price target,neutral,0.399,Seeking Alpha
+2024-12-20,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc issues profit warning citing rising input costs,negative,0.842,MarketWatch
+2025-01-01,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc CFO resigns unexpectedly amid accounting review,negative,0.783,WSJ
+2025-01-03,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc CFO resigns unexpectedly amid accounting review,negative,0.744,MarketWatch
+2025-01-06,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc maintains annual guidance unchanged,neutral,0.444,Reuters
+2025-02-14,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc issues profit warning citing rising input costs,negative,0.613,Seeking Alpha
+2025-02-17,TSLA,Tesla Inc,US,EV/Auto,Analysts downgrade Tesla Inc citing stretched valuations,negative,0.597,Seeking Alpha
+2025-02-22,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc quarterly volume data in line with seasonal patterns,neutral,0.553,CNBC
+2025-03-26,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc raises full-year revenue guidance on strong product demand,positive,0.555,WSJ
+2025-03-30,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc issues profit warning citing rising input costs,negative,0.629,MarketWatch
+2025-04-05,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc wins landmark government contract worth billions,positive,0.718,MarketWatch
+2025-04-06,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces 5,000 job cuts as growth slows",negative,0.627,Reuters
+2025-04-09,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc board approves routine capital expenditure plan,neutral,0.471,Seeking Alpha
+2025-04-16,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc posts strongest revenue growth in 5 years, margins expand",positive,0.829,WSJ
+2025-04-17,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc AI product launch receives overwhelmingly positive reviews,positive,0.83,CNBC
+2025-04-25,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces major strategic partnership, stock hits 52-week high",positive,0.672,Seeking Alpha
+2025-04-25,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc stock trades near analyst consensus price target,neutral,0.553,Seeking Alpha
+2025-04-26,TSLA,Tesla Inc,US,EV/Auto,"Analysts upgrade Tesla Inc to 'Strong Buy', raise price target 20%",positive,0.848,Seeking Alpha
+2025-05-29,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc stock trades near analyst consensus price target,neutral,0.384,WSJ
+2025-05-31,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc hosts investor day, reiterates long-term targets",neutral,0.561,Seeking Alpha
+2025-06-08,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces ₹2,000 Cr share buyback programme",positive,0.649,Reuters
+2025-06-28,TSLA,Tesla Inc,US,EV/Auto,"Analysts upgrade Tesla Inc to 'Strong Buy', raise price target 20%",positive,0.74,WSJ
+2025-06-30,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc Q3 results in line with Street expectations,neutral,0.672,Seeking Alpha
+2025-07-07,TSLA,Tesla Inc,US,EV/Auto,Analysts downgrade Tesla Inc citing stretched valuations,negative,0.77,Seeking Alpha
+2025-07-09,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc issues profit warning citing rising input costs,negative,0.84,MarketWatch
+2025-07-10,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc appoints new Chief Technology Officer,neutral,0.465,WSJ
+2025-07-27,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc wins landmark government contract worth billions,positive,0.768,Bloomberg
+2025-07-30,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc CFO resigns unexpectedly amid accounting review,negative,0.962,Reuters
+2025-08-03,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc misses Q3 earnings estimates, shares fall 8%",negative,0.603,MarketWatch
+2025-08-03,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc faces regulatory investigation, shares under pressure",negative,0.755,WSJ
+2025-08-09,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc supply chain issues hit quarterly margins severely,negative,0.769,CNBC
+2025-08-19,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc expands into Southeast Asian markets, revenue surges",positive,0.605,Seeking Alpha
+2025-08-20,TSLA,Tesla Inc,US,EV/Auto,Analysts downgrade Tesla Inc citing stretched valuations,negative,0.491,MarketWatch
+2025-08-22,TSLA,Tesla Inc,US,EV/Auto,Analysts downgrade Tesla Inc citing stretched valuations,negative,0.484,Reuters
+2025-09-19,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc revenue growth decelerates sharply in key segments,negative,0.92,Seeking Alpha
+2025-09-30,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc misses Q3 earnings estimates, shares fall 8%",negative,0.657,MarketWatch
+2025-10-02,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc dividend hike signals robust free cash flow generation,positive,0.749,MarketWatch
+2025-10-08,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc raises full-year revenue guidance on strong product demand,positive,0.646,CNBC
+2025-10-18,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc misses Q3 earnings estimates, shares fall 8%",negative,0.628,MarketWatch
+2025-10-22,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces 5,000 job cuts as growth slows",negative,0.652,Bloomberg
+2025-10-30,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc expands into Southeast Asian markets, revenue surges",positive,0.506,WSJ
+2025-11-02,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces 5,000 job cuts as growth slows",negative,0.56,MarketWatch
+2025-11-02,TSLA,Tesla Inc,US,EV/Auto,"Analysts upgrade Tesla Inc to 'Strong Buy', raise price target 20%",positive,0.699,Seeking Alpha
+2025-11-25,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc stock trades near analyst consensus price target,neutral,0.737,Seeking Alpha
+2025-11-25,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc AI product launch receives overwhelmingly positive reviews,positive,0.566,CNBC
+2025-12-09,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces ₹2,000 Cr share buyback programme",positive,0.81,WSJ
+2025-12-09,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc board approves routine capital expenditure plan,neutral,0.649,WSJ
+2025-12-12,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc announces annual general meeting date,neutral,0.653,Reuters
+2025-12-12,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc CFO resigns unexpectedly amid accounting review,negative,0.611,CNBC
+2025-12-15,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc expands into Southeast Asian markets, revenue surges",positive,0.812,Seeking Alpha
+2025-12-16,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc faces regulatory investigation, shares under pressure",negative,0.597,Seeking Alpha
+2025-12-22,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc loses major client contract to competitor,negative,0.674,Bloomberg
+2025-12-25,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces 5,000 job cuts as growth slows",negative,0.874,WSJ
+2025-12-27,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc maintains annual guidance unchanged,neutral,0.729,Seeking Alpha
+2026-01-01,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc faces regulatory investigation, shares under pressure",negative,0.612,WSJ
+2026-01-08,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc completes previously announced share buyback,neutral,0.464,WSJ
+2026-01-09,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces ₹2,000 Cr share buyback programme",positive,0.496,Bloomberg
+2026-01-11,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc expands into Southeast Asian markets, revenue surges",positive,0.674,Reuters
+2026-01-15,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc CFO resigns unexpectedly amid accounting review,negative,0.825,Bloomberg
+2026-01-25,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc wins landmark government contract worth billions,positive,0.644,Seeking Alpha
+2026-01-26,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces 5,000 job cuts as growth slows",negative,0.665,MarketWatch
+2026-02-02,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc Q3 results in line with Street expectations,neutral,0.466,MarketWatch
+2026-02-04,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc announces annual general meeting date,neutral,0.555,MarketWatch
+2026-02-05,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc announces ₹2,000 Cr share buyback programme",positive,0.795,WSJ
+2026-02-06,TSLA,Tesla Inc,US,EV/Auto,Analysts downgrade Tesla Inc citing stretched valuations,negative,0.765,MarketWatch
+2026-02-06,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.437,Reuters
+2026-02-08,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc loses major client contract to competitor,negative,0.809,Bloomberg
+2026-02-12,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.665,MarketWatch
+2026-02-17,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc dividend hike signals robust free cash flow generation,positive,0.842,CNBC
+2026-02-25,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc expands into Southeast Asian markets, revenue surges",positive,0.83,CNBC
+2026-03-03,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc supply chain issues hit quarterly margins severely,negative,0.666,Seeking Alpha
+2026-03-11,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc issues profit warning citing rising input costs,negative,0.662,Reuters
+2026-03-13,TSLA,Tesla Inc,US,EV/Auto,Analysts downgrade Tesla Inc citing stretched valuations,negative,0.786,Seeking Alpha
+2026-03-16,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc revenue growth decelerates sharply in key segments,negative,0.589,WSJ
+2026-03-20,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc reports record quarterly earnings, beats analyst estimates by 12%",positive,0.817,Bloomberg
+2026-04-01,TSLA,Tesla Inc,US,EV/Auto,"Analysts upgrade Tesla Inc to 'Strong Buy', raise price target 20%",positive,0.614,CNBC
+2026-04-04,TSLA,Tesla Inc,US,EV/Auto,Tesla Inc dividend hike signals robust free cash flow generation,positive,0.876,Reuters
+2026-04-15,TSLA,Tesla Inc,US,EV/Auto,"Tesla Inc misses Q3 earnings estimates, shares fall 8%",negative,0.614,Reuters
+2024-12-05,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd dividend hike signals robust free cash flow generation,positive,0.797,NDTV Profit
+2024-12-07,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd supply chain issues hit quarterly margins severely,negative,0.824,Livemint
+2024-12-08,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd loses major client contract to competitor,negative,0.734,Business Standard
+2024-12-25,WIPRO.NS,Wipro Ltd,IN,IT Services,Market initiates coverage on Wipro Ltd with 'Hold' rating,neutral,0.654,NDTV Profit
+2024-12-25,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd raises full-year revenue guidance on strong product demand,positive,0.736,Economic Times
+2024-12-27,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd issues profit warning citing rising input costs,negative,0.968,Business Standard
+2024-12-28,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd dividend hike signals robust free cash flow generation,positive,0.737,Economic Times
+2025-01-09,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd dividend hike signals robust free cash flow generation,positive,0.866,Livemint
+2025-01-11,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd board approves routine capital expenditure plan,neutral,0.523,Moneycontrol
+2025-01-14,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd raises full-year revenue guidance on strong product demand,positive,0.679,Mint
+2025-01-15,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.85,NDTV Profit
+2025-01-16,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd AI product launch receives overwhelmingly positive reviews,positive,0.872,Mint
+2025-01-16,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd faces class action lawsuit over product defects,negative,0.699,Business Standard
+2025-01-26,WIPRO.NS,Wipro Ltd,IN,IT Services,Market initiates coverage on Wipro Ltd with 'Hold' rating,neutral,0.615,NDTV Profit
+2025-01-29,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd posts strongest revenue growth in 5 years, margins expand",positive,0.767,Livemint
+2025-01-29,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd raises full-year revenue guidance on strong product demand,positive,0.866,Economic Times
+2025-02-08,WIPRO.NS,Wipro Ltd,IN,IT Services,"Analysts upgrade Wipro Ltd to 'Strong Buy', raise price target 20%",positive,0.794,Mint
+2025-02-11,WIPRO.NS,Wipro Ltd,IN,IT Services,Analysts downgrade Wipro Ltd citing stretched valuations,negative,0.547,NDTV Profit
+2025-02-14,WIPRO.NS,Wipro Ltd,IN,IT Services,Market initiates coverage on Wipro Ltd with 'Hold' rating,neutral,0.382,Business Standard
+2025-02-18,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.817,NDTV Profit
+2025-02-24,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd revenue growth decelerates sharply in key segments,negative,0.777,Business Standard
+2025-02-25,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd appoints new Chief Technology Officer,neutral,0.502,Mint
+2025-03-02,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd faces regulatory investigation, shares under pressure",negative,0.603,Moneycontrol
+2025-03-03,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd dividend hike signals robust free cash flow generation,positive,0.655,Livemint
+2025-03-07,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd faces regulatory investigation, shares under pressure",negative,0.723,Mint
+2025-03-10,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd maintains annual guidance unchanged,neutral,0.774,Moneycontrol
+2025-03-17,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces major strategic partnership, stock hits 52-week high",positive,0.814,Business Standard
+2025-03-17,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd loses major client contract to competitor,negative,0.949,NDTV Profit
+2025-03-24,WIPRO.NS,Wipro Ltd,IN,IT Services,Market initiates coverage on Wipro Ltd with 'Hold' rating,neutral,0.543,NDTV Profit
+2025-04-05,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces ₹2,000 Cr share buyback programme",positive,0.823,NDTV Profit
+2025-04-08,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.593,Livemint
+2025-04-16,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd dividend hike signals robust free cash flow generation,positive,0.937,NDTV Profit
+2025-04-27,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd revenue growth decelerates sharply in key segments,negative,0.677,Economic Times
+2025-05-15,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd raises full-year revenue guidance on strong product demand,positive,0.691,Mint
+2025-05-17,WIPRO.NS,Wipro Ltd,IN,IT Services,"Analysts upgrade Wipro Ltd to 'Strong Buy', raise price target 20%",positive,0.817,NDTV Profit
+2025-05-28,WIPRO.NS,Wipro Ltd,IN,IT Services,"Analysts upgrade Wipro Ltd to 'Strong Buy', raise price target 20%",positive,0.581,Moneycontrol
+2025-06-11,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd issues profit warning citing rising input costs,negative,0.611,Mint
+2025-06-17,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd issues profit warning citing rising input costs,negative,0.693,Business Standard
+2025-07-09,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd posts strongest revenue growth in 5 years, margins expand",positive,0.66,Business Standard
+2025-07-21,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd announces annual general meeting date,neutral,0.601,Moneycontrol
+2025-07-23,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd quarterly volume data in line with seasonal patterns,neutral,0.61,Economic Times
+2025-07-26,WIPRO.NS,Wipro Ltd,IN,IT Services,"Analysts upgrade Wipro Ltd to 'Strong Buy', raise price target 20%",positive,0.634,Economic Times
+2025-07-29,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd expands into Southeast Asian markets, revenue surges",positive,0.814,Mint
+2025-08-07,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd issues profit warning citing rising input costs,negative,0.585,Economic Times
+2025-08-12,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces ₹2,000 Cr share buyback programme",positive,0.849,Mint
+2025-08-15,WIPRO.NS,Wipro Ltd,IN,IT Services,"Analysts upgrade Wipro Ltd to 'Strong Buy', raise price target 20%",positive,0.74,NDTV Profit
+2025-08-16,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd faces class action lawsuit over product defects,negative,0.638,Economic Times
+2025-08-17,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.35,Moneycontrol
+2025-08-19,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces 5,000 job cuts as growth slows",negative,0.694,Moneycontrol
+2025-08-24,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces ₹2,000 Cr share buyback programme",positive,0.796,Moneycontrol
+2025-08-26,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd wins landmark government contract worth billions,positive,0.652,Economic Times
+2025-09-21,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.593,Business Standard
+2025-09-23,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd board approves routine capital expenditure plan,neutral,0.77,Business Standard
+2025-09-23,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd Q3 results in line with Street expectations,neutral,0.592,Livemint
+2025-09-24,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd raises full-year revenue guidance on strong product demand,positive,0.562,NDTV Profit
+2025-09-29,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd expands into Southeast Asian markets, revenue surges",positive,0.709,Livemint
+2025-10-27,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd completes previously announced share buyback,neutral,0.675,Business Standard
+2025-11-03,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces ₹2,000 Cr share buyback programme",positive,0.719,Economic Times
+2025-11-14,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd maintains annual guidance unchanged,neutral,0.472,Economic Times
+2025-11-23,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd CFO resigns unexpectedly amid accounting review,negative,0.748,NDTV Profit
+2025-12-03,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd hosts investor day, reiterates long-term targets",neutral,0.515,Business Standard
+2025-12-18,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd misses Q3 earnings estimates, shares fall 8%",negative,0.771,Business Standard
+2025-12-18,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd issues profit warning citing rising input costs,negative,0.748,Livemint
+2025-12-22,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd CFO resigns unexpectedly amid accounting review,negative,0.61,Economic Times
+2025-12-28,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd expands into Southeast Asian markets, revenue surges",positive,0.888,Mint
+2025-12-31,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd Q3 results in line with Street expectations,neutral,0.638,Livemint
+2026-01-09,WIPRO.NS,Wipro Ltd,IN,IT Services,Analysts downgrade Wipro Ltd citing stretched valuations,negative,0.795,NDTV Profit
+2026-01-10,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd supply chain issues hit quarterly margins severely,negative,0.746,Livemint
+2026-01-19,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd completes previously announced share buyback,neutral,0.716,Mint
+2026-01-25,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd announces annual general meeting date,neutral,0.35,Livemint
+2026-01-29,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd faces class action lawsuit over product defects,negative,0.741,Moneycontrol
+2026-03-01,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd announces annual general meeting date,neutral,0.478,Mint
+2026-03-04,WIPRO.NS,Wipro Ltd,IN,IT Services,"Analysts upgrade Wipro Ltd to 'Strong Buy', raise price target 20%",positive,0.776,Moneycontrol
+2026-03-05,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd loses major client contract to competitor,negative,0.905,Economic Times
+2026-03-05,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd faces regulatory investigation, shares under pressure",negative,0.644,Economic Times
+2026-03-16,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd revenue growth decelerates sharply in key segments,negative,0.493,Moneycontrol
+2026-03-21,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd revenue growth decelerates sharply in key segments,negative,0.681,Business Standard
+2026-03-26,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd announces major strategic partnership, stock hits 52-week high",positive,0.536,Business Standard
+2026-03-28,WIPRO.NS,Wipro Ltd,IN,IT Services,"Wipro Ltd reports record quarterly earnings, beats analyst estimates by 12%",positive,0.685,NDTV Profit
+2026-04-04,WIPRO.NS,Wipro Ltd,IN,IT Services,Wipro Ltd completes previously announced share buyback,neutral,0.404,Mint
